@@ -1,0 +1,40 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ng-address-toolkit"
+version = "0.1.0"
+description = "Accurate Nigerian states, LGAs, wards and towns data with postal codes"
+readme = "README.md"
+requires-python = ">=3.8"
+license = { text = "MIT" }
+authors = [{ name = "Caleb A.", email = "caleb.usha.yt@gmail.com" }]
+keywords = [
+    "nigeria",
+    "address",
+    "zipcode",
+    "lga",
+    "states",
+    "wards",
+    "postalcode",
+    "locations",
+    "area",
+]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Topic :: Software Development :: Libraries",
+]
+
+[project.urls]
+Homepage = "https://github.com/Sly611/ng-address-toolkit"
+Repository = "https://github.com/Sly611/ng-address-toolkit"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["ng-address-toolkit*"]
+
+[tool.setuptools.package-data]
+ng-address-toolkit = ["data/*.json"]

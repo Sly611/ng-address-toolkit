@@ -1,0 +1,5420 @@
+[
+  {
+    "alias": "aba-north",
+    "name": "Aba North",
+    "state_code": "AB",
+    "latitude": 5.33333333,
+    "longitude": 7.31666667
+  },
+  {
+    "alias": "aba-south",
+    "name": "Aba South",
+    "state_code": "AB",
+    "latitude": 5.1,
+    "longitude": 7.35
+  },
+  {
+    "alias": "arochukwu",
+    "name": "Arochukwu",
+    "state_code": "AB",
+    "latitude": 5.38333333,
+    "longitude": 7.91666667
+  },
+  {
+    "alias": "bende",
+    "name": "Bende",
+    "state_code": "AB",
+    "latitude": 5.56666667,
+    "longitude": 7.63333333
+  },
+  {
+    "alias": "ikwuano",
+    "name": "Ikwuano",
+    "state_code": "AB",
+    "latitude": 5.43333333,
+    "longitude": 7.56666667
+  },
+  {
+    "alias": "isiala-ngwa-north",
+    "name": "Isiala Ngwa North",
+    "state_code": "AB",
+    "latitude": 5.388966,
+    "longitude": 7.446948
+  },
+  {
+    "alias": "isiala-ngwa-south",
+    "name": "Isiala Ngwa South",
+    "state_code": "AB",
+    "latitude": 5.36241,
+    "longitude": 7.39998
+  },
+  {
+    "alias": "isuikwuato",
+    "name": "Isuikwuato",
+    "state_code": "AB",
+    "latitude": 5.533333,
+    "longitude": 7.483333
+  },
+  {
+    "alias": "obi-ngwa",
+    "name": "Obi Ngwa",
+    "state_code": "AB",
+    "latitude": 5.155402,
+    "longitude": 7.457067
+  },
+  {
+    "alias": "ohafia",
+    "name": "Ohafia",
+    "state_code": "AB",
+    "latitude": 5.61666667,
+    "longitude": 7.83333333
+  },
+  {
+    "alias": "osisioma",
+    "name": "Osisioma",
+    "state_code": "AB",
+    "latitude": 5.14972222,
+    "longitude": 7.33027778
+  },
+  {
+    "alias": "ugwunagbo",
+    "name": "Ugwunagbo",
+    "state_code": "AB",
+    "latitude": 4.984474,
+    "longitude": 7.325783
+  },
+  {
+    "alias": "ukwa-east",
+    "name": "Ukwa East",
+    "state_code": "AB",
+    "latitude": 4.8872,
+    "longitude": 7.3572
+  },
+  {
+    "alias": "ukwa-west",
+    "name": "Ukwa West",
+    "state_code": "AB",
+    "latitude": 4.9884,
+    "longitude": 7.2425
+  },
+  {
+    "alias": "umu-nneochi",
+    "name": "Umu-Nneochi",
+    "state_code": "AB",
+    "latitude": 5.985662,
+    "longitude": 7.469005
+  },
+  {
+    "alias": "umuahia-north",
+    "name": "Umuahia North",
+    "state_code": "AB",
+    "latitude": 5.5333,
+    "longitude": 7.4833
+  },
+  {
+    "alias": "umuahia-south",
+    "name": "Umuahia South",
+    "state_code": "AB",
+    "latitude": 5.515311,
+    "longitude": 7.447314
+  },
+  {
+    "alias": "demsa",
+    "name": "Demsa",
+    "state_code": "AD",
+    "latitude": 9.41666667,
+    "longitude": 12.13333333
+  },
+  {
+    "alias": "fufore",
+    "name": "Fufore",
+    "state_code": "AD",
+    "latitude": 9.21666667,
+    "longitude": 12.65
+  },
+  {
+    "alias": "ganye",
+    "name": "Ganye",
+    "state_code": "AD",
+    "latitude": 8.43333,
+    "longitude": 12.0667
+  },
+  {
+    "alias": "girei",
+    "name": "Girei",
+    "state_code": "AD",
+    "latitude": 9.36667,
+    "longitude": 12.55
+  },
+  {
+    "alias": "gombi",
+    "name": "Gombi",
+    "state_code": "AD",
+    "latitude": 10.16222222,
+    "longitude": 12.74
+  },
+  {
+    "alias": "guyuk",
+    "name": "Guyuk",
+    "state_code": "AD",
+    "latitude": 9.90555556,
+    "longitude": 11.92833333
+  },
+  {
+    "alias": "hong",
+    "name": "Hong",
+    "state_code": "AD",
+    "latitude": 10.23166667,
+    "longitude": 12.93027778
+  },
+  {
+    "alias": "jada",
+    "name": "Jada",
+    "state_code": "AD",
+    "latitude": 8.76666667,
+    "longitude": 12.15
+  },
+  {
+    "alias": "lamurde",
+    "name": "Lamurde",
+    "state_code": "AD",
+    "latitude": 9.6,
+    "longitude": 11.78333333
+  },
+  {
+    "alias": "madagali",
+    "name": "Madagali",
+    "state_code": "AD",
+    "latitude": 10.74611111,
+    "longitude": 13.41583333
+  },
+  {
+    "alias": "maiha",
+    "name": "Maiha",
+    "state_code": "AD",
+    "latitude": 9.99555556,
+    "longitude": 13.21805556
+  },
+  {
+    "alias": "mayo-belwa",
+    "name": "Mayo Belwa",
+    "state_code": "AD",
+    "latitude": 9.05,
+    "longitude": 12.05
+  },
+  {
+    "alias": "michika",
+    "name": "Michika",
+    "state_code": "AD",
+    "latitude": 10.61666667,
+    "longitude": 13.38333333
+  },
+  {
+    "alias": "mubi-north",
+    "name": "Mubi North",
+    "state_code": "AD",
+    "latitude": 10.26666667,
+    "longitude": 13.26666667
+  },
+  {
+    "alias": "mubi-south",
+    "name": "Mubi South",
+    "state_code": "AD",
+    "latitude": 10.1874,
+    "longitude": 13.39576
+  },
+  {
+    "alias": "numan",
+    "name": "Numan",
+    "state_code": "AD",
+    "latitude": 9.46694444,
+    "longitude": 12.03277778
+  },
+  {
+    "alias": "shelleng",
+    "name": "Shelleng",
+    "state_code": "AD",
+    "latitude": 9.88472222,
+    "longitude": 12.00888889
+  },
+  {
+    "alias": "song",
+    "name": "Song",
+    "state_code": "AD",
+    "latitude": 9.82444444,
+    "longitude": 12.625
+  },
+  {
+    "alias": "toungo",
+    "name": "Toungo",
+    "state_code": "AD",
+    "latitude": 8.11666667,
+    "longitude": 12.05
+  },
+  {
+    "alias": "yola-north",
+    "name": "Yola North",
+    "state_code": "AD",
+    "latitude": 9.188528,
+    "longitude": 12.393866
+  },
+  {
+    "alias": "yola-south",
+    "name": "Yola South",
+    "state_code": "AD",
+    "latitude": 9.249949,
+    "longitude": 12.412618
+  },
+  {
+    "alias": "abak",
+    "name": "Abak",
+    "state_code": "AK",
+    "latitude": 4.98333333,
+    "longitude": 7.78333333
+  },
+  {
+    "alias": "eastern-obolo",
+    "name": "Eastern Obolo",
+    "state_code": "AK",
+    "latitude": 4.533333,
+    "longitude": 7.7
+  },
+  {
+    "alias": "eket",
+    "name": "Eket",
+    "state_code": "AK",
+    "latitude": 4.65,
+    "longitude": 7.93333333
+  },
+  {
+    "alias": "esit-eket",
+    "name": "Esit Eket",
+    "state_code": "AK",
+    "latitude": 4.66055556,
+    "longitude": 8.06666667
+  },
+  {
+    "alias": "essien-udim",
+    "name": "Essien Udim",
+    "state_code": "AK",
+    "latitude": 5.13333333,
+    "longitude": 7.68333333
+  },
+  {
+    "alias": "etim-ekpo",
+    "name": "Etim Ekpo",
+    "state_code": "AK",
+    "latitude": 5.01666667,
+    "longitude": 7.61666667
+  },
+  {
+    "alias": "etinan",
+    "name": "Etinan",
+    "state_code": "AK",
+    "latitude": 4.85,
+    "longitude": 7.83333333
+  },
+  {
+    "alias": "ibeno",
+    "name": "Ibeno",
+    "state_code": "AK",
+    "latitude": 4.568693,
+    "longitude": 7.976396
+  },
+  {
+    "alias": "ibesikpo-asutan",
+    "name": "Ibesikpo Asutan",
+    "state_code": "AK",
+    "latitude": 4.76666667,
+    "longitude": 7.95
+  },
+  {
+    "alias": "ibiono-ibom",
+    "name": "Ibiono Ibom",
+    "state_code": "AK",
+    "latitude": 5.23333333,
+    "longitude": 7.88333333
+  },
+  {
+    "alias": "ika",
+    "name": "Ika",
+    "state_code": "AK",
+    "latitude": 5.01666667,
+    "longitude": 7.53333333
+  },
+  {
+    "alias": "ikono",
+    "name": "Ikono",
+    "state_code": "AK",
+    "latitude": 5.210278,
+    "longitude": 7.793889
+  },
+  {
+    "alias": "ikot-abasi",
+    "name": "Ikot Abasi",
+    "state_code": "AK",
+    "latitude": 4.633333,
+    "longitude": 7.65
+  },
+  {
+    "alias": "ikot-ekpene",
+    "name": "Ikot Ekpene",
+    "state_code": "AK",
+    "latitude": 5.18333333,
+    "longitude": 7.71666667
+  },
+  {
+    "alias": "ini",
+    "name": "Ini",
+    "state_code": "AK",
+    "latitude": 5.4,
+    "longitude": 7.733333
+  },
+  {
+    "alias": "itu",
+    "name": "Itu",
+    "state_code": "AK",
+    "latitude": 5.16666667,
+    "longitude": 7.98333333
+  },
+  {
+    "alias": "mbo",
+    "name": "Mbo",
+    "state_code": "AK",
+    "latitude": 4.65,
+    "longitude": 8.23333333
+  },
+  {
+    "alias": "mkpat-enin",
+    "name": "Mkpat Enin",
+    "state_code": "AK",
+    "latitude": 4.73361111,
+    "longitude": 7.74861111
+  },
+  {
+    "alias": "nsit-atai",
+    "name": "Nsit Atai",
+    "state_code": "AK",
+    "latitude": 4.85,
+    "longitude": 8.01666667
+  },
+  {
+    "alias": "nsit-ibom",
+    "name": "Nsit Ibom",
+    "state_code": "AK",
+    "latitude": 4.88333333,
+    "longitude": 7.9
+  },
+  {
+    "alias": "nsit-ubium",
+    "name": "Nsit Ubium",
+    "state_code": "AK",
+    "latitude": 4.76666667,
+    "longitude": 7.93333333
+  },
+  {
+    "alias": "obot-akara",
+    "name": "Obot Akara",
+    "state_code": "AK",
+    "latitude": 5.26667,
+    "longitude": 7.6
+  },
+  {
+    "alias": "okobo",
+    "name": "Okobo",
+    "state_code": "AK",
+    "latitude": 4.83333333,
+    "longitude": 8.13333333
+  },
+  {
+    "alias": "onna",
+    "name": "Onna",
+    "state_code": "AK",
+    "latitude": 4.65,
+    "longitude": 7.86666667
+  },
+  {
+    "alias": "oron",
+    "name": "Oron",
+    "state_code": "AK",
+    "latitude": 4.82583333,
+    "longitude": 8.23388889
+  },
+  {
+    "alias": "oruk-anam",
+    "name": "Oruk Anam",
+    "state_code": "AK",
+    "latitude": 4.81666667,
+    "longitude": 7.65
+  },
+  {
+    "alias": "udung-uko",
+    "name": "Udung Uko",
+    "state_code": "AK",
+    "latitude": 4.76666667,
+    "longitude": 8.23333333
+  },
+  {
+    "alias": "ukanafun",
+    "name": "Ukanafun",
+    "state_code": "AK",
+    "latitude": 4.9,
+    "longitude": 7.6
+  },
+  {
+    "alias": "uruan",
+    "name": "Uruan",
+    "state_code": "AK",
+    "latitude": 5.03333333,
+    "longitude": 8.05
+  },
+  {
+    "alias": "urue-offong/oruko",
+    "name": "Urue Offong/Oruko",
+    "state_code": "AK",
+    "latitude": 4.71667,
+    "longitude": 8.15
+  },
+  {
+    "alias": "uyo",
+    "name": "Uyo",
+    "state_code": "AK",
+    "latitude": 5.03333333,
+    "longitude": 7.91666667
+  },
+  {
+    "alias": "aguata",
+    "name": "Aguata",
+    "state_code": "AN",
+    "latitude": 6.01666667,
+    "longitude": 7.08333333
+  },
+  {
+    "alias": "anambra-east",
+    "name": "Anambra East",
+    "state_code": "AN",
+    "latitude": 6.333333,
+    "longitude": 6.866667
+  },
+  {
+    "alias": "anambra-west",
+    "name": "Anambra West",
+    "state_code": "AN",
+    "latitude": 6.416667,
+    "longitude": 6.683333
+  },
+  {
+    "alias": "anaocha",
+    "name": "Anaocha",
+    "state_code": "AN",
+    "latitude": 6.15,
+    "longitude": 7.05
+  },
+  {
+    "alias": "awka-north",
+    "name": "Awka North",
+    "state_code": "AN",
+    "latitude": 6.233333,
+    "longitude": 7.133333
+  },
+  {
+    "alias": "awka-south",
+    "name": "Awka South",
+    "state_code": "AN",
+    "latitude": 6.16666667,
+    "longitude": 7.06666667
+  },
+  {
+    "alias": "ayamelum",
+    "name": "Ayamelum",
+    "state_code": "AN",
+    "latitude": 6.6,
+    "longitude": 6.966667
+  },
+  {
+    "alias": "dunukofia",
+    "name": "Dunukofia",
+    "state_code": "AN",
+    "latitude": 6.271944,
+    "longitude": 6.976667
+  },
+  {
+    "alias": "ekwusigo",
+    "name": "Ekwusigo",
+    "state_code": "AN",
+    "latitude": 6.054662,
+    "longitude": 6.82859
+  },
+  {
+    "alias": "idemili-north",
+    "name": "Idemili North",
+    "state_code": "AN",
+    "latitude": 6.097069,
+    "longitude": 6.984745
+  },
+  {
+    "alias": "idemili-south",
+    "name": "Idemili South",
+    "state_code": "AN",
+    "latitude": 6.100683,
+    "longitude": 6.898364
+  },
+  {
+    "alias": "ihiala",
+    "name": "Ihiala",
+    "state_code": "AN",
+    "latitude": 5.85388889,
+    "longitude": 6.86
+  },
+  {
+    "alias": "njikoka",
+    "name": "Njikoka",
+    "state_code": "AN",
+    "latitude": 6.183846,
+    "longitude": 6.99191
+  },
+  {
+    "alias": "nnewi-north",
+    "name": "Nnewi North",
+    "state_code": "AN",
+    "latitude": 5.938767,
+    "longitude": 5.938767
+  },
+  {
+    "alias": "nnewi-south",
+    "name": "Nnewi South",
+    "state_code": "AN",
+    "latitude": 5.938383,
+    "longitude": 6.921821
+  },
+  {
+    "alias": "ogbaru",
+    "name": "Ogbaru",
+    "state_code": "AN",
+    "latitude": 5.960656,
+    "longitude": 6.731678
+  },
+  {
+    "alias": "onitsha-north",
+    "name": "Onitsha North",
+    "state_code": "AN",
+    "latitude": 6.189277,
+    "longitude": 6.805853
+  },
+  {
+    "alias": "onitsha-south",
+    "name": "Onitsha South",
+    "state_code": "AN",
+    "latitude": 6.135818,
+    "longitude": 6.788542
+  },
+  {
+    "alias": "orumba-north",
+    "name": "Orumba North",
+    "state_code": "AN",
+    "latitude": 6.042599,
+    "longitude": 7.213103
+  },
+  {
+    "alias": "orumba-south",
+    "name": "Orumba South",
+    "state_code": "AN",
+    "latitude": 5.990942,
+    "longitude": 5.990942
+  },
+  {
+    "alias": "oyi",
+    "name": "Oyi",
+    "state_code": "AN",
+    "latitude": 5.25,
+    "longitude": 6.21666667
+  },
+  {
+    "alias": "alkaleri",
+    "name": "Alkaleri",
+    "state_code": "BA",
+    "latitude": 9.88333333,
+    "longitude": 10.5
+  },
+  {
+    "alias": "bauchi",
+    "name": "Bauchi",
+    "state_code": "BA",
+    "latitude": 10.31583333,
+    "longitude": 9.84416667
+  },
+  {
+    "alias": "bogoro",
+    "name": "Bogoro",
+    "state_code": "BA",
+    "latitude": 9.66852,
+    "longitude": 9.60395
+  },
+  {
+    "alias": "damban",
+    "name": "Damban",
+    "state_code": "BA",
+    "latitude": 11.62592,
+    "longitude": 10.78622
+  },
+  {
+    "alias": "darazo",
+    "name": "Darazo",
+    "state_code": "BA",
+    "latitude": 11,
+    "longitude": 10.41
+  },
+  {
+    "alias": "dass",
+    "name": "Dass",
+    "state_code": "BA",
+    "latitude": 10.126111,
+    "longitude": 9.484704
+  },
+  {
+    "alias": "gamawa",
+    "name": "Gamawa",
+    "state_code": "BA",
+    "latitude": 12.133333,
+    "longitude": 10.533333
+  },
+  {
+    "alias": "ganjuwa",
+    "name": "Ganjuwa",
+    "state_code": "BA",
+    "latitude": 10.868124,
+    "longitude": 10.165283
+  },
+  {
+    "alias": "giade",
+    "name": "Giade",
+    "state_code": "BA",
+    "latitude": 11.390251,
+    "longitude": 10.199128
+  },
+  {
+    "alias": "itas/gadau",
+    "name": "Itas/Gadau",
+    "state_code": "BA",
+    "latitude": 11.86666667,
+    "longitude": 9.96666667
+  },
+  {
+    "alias": "jama'are",
+    "name": "Jama'are",
+    "state_code": "BA",
+    "latitude": 11.669111,
+    "longitude": 9.928958
+  },
+  {
+    "alias": "katagum",
+    "name": "Katagum",
+    "state_code": "BA",
+    "latitude": 12.28333333,
+    "longitude": 10.35
+  },
+  {
+    "alias": "kirfi",
+    "name": "Kirfi",
+    "state_code": "BA",
+    "latitude": 10.4,
+    "longitude": 10.4
+  },
+  {
+    "alias": "misau",
+    "name": "Misau",
+    "state_code": "BA",
+    "latitude": 11.313599,
+    "longitude": 10.463126
+  },
+  {
+    "alias": "ningi",
+    "name": "Ningi",
+    "state_code": "BA",
+    "latitude": 11.06666667,
+    "longitude": 9.56666667
+  },
+  {
+    "alias": "shira",
+    "name": "Shira",
+    "state_code": "BA",
+    "latitude": 11.50416667,
+    "longitude": 10.01722222
+  },
+  {
+    "alias": "tafawa-balewa",
+    "name": "Tafawa Balewa",
+    "state_code": "BA",
+    "latitude": 9.759094,
+    "longitude": 9.553127
+  },
+  {
+    "alias": "toro",
+    "name": "Toro",
+    "state_code": "BA",
+    "latitude": 10.059364,
+    "longitude": 9.071724
+  },
+  {
+    "alias": "warji",
+    "name": "Warji",
+    "state_code": "BA",
+    "latitude": 11.18333333,
+    "longitude": 9.75
+  },
+  {
+    "alias": "zaki",
+    "name": "Zaki",
+    "state_code": "BA",
+    "latitude": 12.13333333,
+    "longitude": 10.28333333
+  },
+  {
+    "alias": "ado",
+    "name": "Ado",
+    "state_code": "BE",
+    "latitude": 7.8,
+    "longitude": 7.65
+  },
+  {
+    "alias": "agatu",
+    "name": "Agatu",
+    "state_code": "BE",
+    "latitude": 7.9,
+    "longitude": 7.9
+  },
+  {
+    "alias": "apa",
+    "name": "Apa",
+    "state_code": "BE",
+    "latitude": 7.829754,
+    "longitude": 8.069994
+  },
+  {
+    "alias": "buruku",
+    "name": "Buruku",
+    "state_code": "BE",
+    "latitude": 7.416792,
+    "longitude": 9.224674
+  },
+  {
+    "alias": "gboko",
+    "name": "Gboko",
+    "state_code": "BE",
+    "latitude": 7.327778,
+    "longitude": 8.995
+  },
+  {
+    "alias": "guma",
+    "name": "Guma",
+    "state_code": "BE",
+    "latitude": 7.823295,
+    "longitude": 8.863239
+  },
+  {
+    "alias": "gwer-east",
+    "name": "Gwer East",
+    "state_code": "BE",
+    "latitude": 7.298066,
+    "longitude": 8.482303
+  },
+  {
+    "alias": "gwer-west",
+    "name": "Gwer West",
+    "state_code": "BE",
+    "latitude": 7.584645,
+    "longitude": 8.205478
+  },
+  {
+    "alias": "katsina-ala",
+    "name": "Katsina Ala",
+    "state_code": "BE",
+    "latitude": 7.16666667,
+    "longitude": 9.28333333
+  },
+  {
+    "alias": "konshisha",
+    "name": "Konshisha",
+    "state_code": "BE",
+    "latitude": 7.071123,
+    "longitude": 8.663878
+  },
+  {
+    "alias": "kwande",
+    "name": "Kwande",
+    "state_code": "BE",
+    "latitude": 6.890043,
+    "longitude": 9.233408
+  },
+  {
+    "alias": "logo",
+    "name": "Logo",
+    "state_code": "BE",
+    "latitude": 7.507748,
+    "longitude": 9.350653
+  },
+  {
+    "alias": "makurdi",
+    "name": "Makurdi",
+    "state_code": "BE",
+    "latitude": 7.730556,
+    "longitude": 8.536111
+  },
+  {
+    "alias": "obi",
+    "name": "Obi",
+    "state_code": "BE",
+    "latitude": 7,
+    "longitude": 8.25
+  },
+  {
+    "alias": "ogbadibo",
+    "name": "Ogbadibo",
+    "state_code": "BE",
+    "latitude": 7.13907,
+    "longitude": 7.668285
+  },
+  {
+    "alias": "ohimini",
+    "name": "Ohimini",
+    "state_code": "BE",
+    "latitude": 7.23015,
+    "longitude": 7.927993
+  },
+  {
+    "alias": "oju",
+    "name": "Oju",
+    "state_code": "BE",
+    "latitude": 6.85,
+    "longitude": 8.41666667
+  },
+  {
+    "alias": "okpokwu",
+    "name": "Okpokwu",
+    "state_code": "BE",
+    "latitude": 7.06277778,
+    "longitude": 8.21
+  },
+  {
+    "alias": "otukpo",
+    "name": "Otukpo",
+    "state_code": "BE",
+    "latitude": 7.19305556,
+    "longitude": 8.14638889
+  },
+  {
+    "alias": "tarka",
+    "name": "Tarka",
+    "state_code": "BE",
+    "latitude": 7.620833,
+    "longitude": 8.881944
+  },
+  {
+    "alias": "ukum",
+    "name": "Ukum",
+    "state_code": "BE",
+    "latitude": 7.530801,
+    "longitude": 9.649268
+  },
+  {
+    "alias": "ushongo",
+    "name": "Ushongo",
+    "state_code": "BE",
+    "latitude": 7.135788,
+    "longitude": 9.032921
+  },
+  {
+    "alias": "vandeikya",
+    "name": "Vandeikya",
+    "state_code": "BE",
+    "latitude": 6.782346,
+    "longitude": 9.069257
+  },
+  {
+    "alias": "abadam",
+    "name": "Abadam",
+    "state_code": "BO",
+    "latitude": 13.610953,
+    "longitude": 13.277664
+  },
+  {
+    "alias": "askira/uba",
+    "name": "Askira/Uba",
+    "state_code": "BO",
+    "latitude": 10.654724,
+    "longitude": 12.907777
+  },
+  {
+    "alias": "bama",
+    "name": "Bama",
+    "state_code": "BO",
+    "latitude": 11.51888889,
+    "longitude": 13.68416667
+  },
+  {
+    "alias": "bayo",
+    "name": "Bayo",
+    "state_code": "BO",
+    "latitude": 10.441838,
+    "longitude": 11.704237
+  },
+  {
+    "alias": "biu",
+    "name": "Biu",
+    "state_code": "BO",
+    "latitude": 10.6111,
+    "longitude": 12.195
+  },
+  {
+    "alias": "chibok",
+    "name": "Chibok",
+    "state_code": "BO",
+    "latitude": 10.86972222,
+    "longitude": 12.84666667
+  },
+  {
+    "alias": "damboa",
+    "name": "Damboa",
+    "state_code": "BO",
+    "latitude": 11.15,
+    "longitude": 12.75
+  },
+  {
+    "alias": "dikwa",
+    "name": "Dikwa",
+    "state_code": "BO",
+    "latitude": 12.0239,
+    "longitude": 13.9158
+  },
+  {
+    "alias": "gubio",
+    "name": "Gubio",
+    "state_code": "BO",
+    "latitude": 12.4975,
+    "longitude": 12.78
+  },
+  {
+    "alias": "guzamala",
+    "name": "Guzamala",
+    "state_code": "BO",
+    "latitude": 12.94656,
+    "longitude": 13.176822
+  },
+  {
+    "alias": "gwoza",
+    "name": "Gwoza",
+    "state_code": "BO",
+    "latitude": 11.086111,
+    "longitude": 13.691389
+  },
+  {
+    "alias": "hawul",
+    "name": "Hawul",
+    "state_code": "BO",
+    "latitude": 10.451308,
+    "longitude": 12.116581
+  },
+  {
+    "alias": "jere",
+    "name": "Jere",
+    "state_code": "BO",
+    "latitude": 11.89912,
+    "longitude": 13.29155
+  },
+  {
+    "alias": "kaga",
+    "name": "Kaga",
+    "state_code": "BO",
+    "latitude": 11.810333,
+    "longitude": 12.494153
+  },
+  {
+    "alias": "kala/balge",
+    "name": "Kala/Balge",
+    "state_code": "BO",
+    "latitude": 12.268627,
+    "longitude": 14.464896
+  },
+  {
+    "alias": "konduga",
+    "name": "Konduga",
+    "state_code": "BO",
+    "latitude": 11.65166667,
+    "longitude": 13.41944444
+  },
+  {
+    "alias": "kukawa",
+    "name": "Kukawa",
+    "state_code": "BO",
+    "latitude": 12.91666667,
+    "longitude": 13.56666667
+  },
+  {
+    "alias": "kwaya-kusar",
+    "name": "Kwaya Kusar",
+    "state_code": "BO",
+    "latitude": 11.817338,
+    "longitude": 13.120352
+  },
+  {
+    "alias": "mafa",
+    "name": "Mafa",
+    "state_code": "BO",
+    "latitude": 11.92583333,
+    "longitude": 13.60555556
+  },
+  {
+    "alias": "magumeri",
+    "name": "Magumeri",
+    "state_code": "BO",
+    "latitude": 12.115657,
+    "longitude": 12.83101
+  },
+  {
+    "alias": "maiduguri",
+    "name": "Maiduguri",
+    "state_code": "BO",
+    "latitude": 11.83333333,
+    "longitude": 13.15
+  },
+  {
+    "alias": "marte",
+    "name": "Marte",
+    "state_code": "BO",
+    "latitude": 12.364596,
+    "longitude": 13.826741
+  },
+  {
+    "alias": "mobbar",
+    "name": "Mobbar",
+    "state_code": "BO",
+    "latitude": 13.103993,
+    "longitude": 12.511041
+  },
+  {
+    "alias": "monguno",
+    "name": "Monguno",
+    "state_code": "BO",
+    "latitude": 12.68333333,
+    "longitude": 13.6
+  },
+  {
+    "alias": "ngala",
+    "name": "Ngala",
+    "state_code": "BO",
+    "latitude": 12.371107,
+    "longitude": 14.206223
+  },
+  {
+    "alias": "nganzai",
+    "name": "Nganzai",
+    "state_code": "BO",
+    "latitude": 12.486253,
+    "longitude": 13.209321
+  },
+  {
+    "alias": "shani",
+    "name": "Shani",
+    "state_code": "BO",
+    "latitude": 10.183889,
+    "longitude": 11.963889
+  },
+  {
+    "alias": "brass",
+    "name": "Brass",
+    "state_code": "BY",
+    "latitude": 4.315,
+    "longitude": 6.24166667
+  },
+  {
+    "alias": "ekeremor",
+    "name": "Ekeremor",
+    "state_code": "BY",
+    "latitude": 5.05,
+    "longitude": 5.78333333
+  },
+  {
+    "alias": "kolokuma/opokuma",
+    "name": "Kolokuma/Opokuma",
+    "state_code": "BY",
+    "latitude": 5.13333333,
+    "longitude": 6.3
+  },
+  {
+    "alias": "nembe",
+    "name": "Nembe",
+    "state_code": "BY",
+    "latitude": 4.53690278,
+    "longitude": 6.40621111
+  },
+  {
+    "alias": "ogbia",
+    "name": "Ogbia",
+    "state_code": "BY",
+    "latitude": 4.78333333,
+    "longitude": 6.33333333
+  },
+  {
+    "alias": "sagbama",
+    "name": "Sagbama",
+    "state_code": "BY",
+    "latitude": 5.16666667,
+    "longitude": 6.2
+  },
+  {
+    "alias": "southern-ijaw",
+    "name": "Southern Ijaw",
+    "state_code": "BY",
+    "latitude": 4.7,
+    "longitude": 5.966667
+  },
+  {
+    "alias": "yenagoa",
+    "name": "Yenagoa",
+    "state_code": "BY",
+    "latitude": 5.03333333,
+    "longitude": 6.33333333
+  },
+  {
+    "alias": "abi",
+    "name": "Abi",
+    "state_code": "CR",
+    "latitude": 6.833333,
+    "longitude": 7.233333
+  },
+  {
+    "alias": "akamkpa",
+    "name": "Akamkpa",
+    "state_code": "CR",
+    "latitude": 5.326828,
+    "longitude": 8.346262
+  },
+  {
+    "alias": "akpabuyo",
+    "name": "Akpabuyo",
+    "state_code": "CR",
+    "latitude": 4.950439,
+    "longitude": 8.393276
+  },
+  {
+    "alias": "bakassi",
+    "name": "Bakassi",
+    "state_code": "CR",
+    "latitude": 4.58333333,
+    "longitude": 8.6
+  },
+  {
+    "alias": "bekwarra",
+    "name": "Bekwarra",
+    "state_code": "CR",
+    "latitude": 6.69388889,
+    "longitude": 8.9675
+  },
+  {
+    "alias": "biase",
+    "name": "Biase",
+    "state_code": "CR",
+    "latitude": 5.557438,
+    "longitude": 8.110474
+  },
+  {
+    "alias": "boki",
+    "name": "Boki",
+    "state_code": "CR",
+    "latitude": 6.273889,
+    "longitude": 9.01
+  },
+  {
+    "alias": "calabar-municipal",
+    "name": "Calabar Municipal",
+    "state_code": "CR",
+    "latitude": 4.974531,
+    "longitude": 8.34241
+  },
+  {
+    "alias": "calabar-south",
+    "name": "Calabar South",
+    "state_code": "CR",
+    "latitude": 4.918822,
+    "longitude": 8.320945
+  },
+  {
+    "alias": "etung",
+    "name": "Etung",
+    "state_code": "CR",
+    "latitude": 5.858889,
+    "longitude": 8.791667
+  },
+  {
+    "alias": "ikom",
+    "name": "Ikom",
+    "state_code": "CR",
+    "latitude": 6.08333333,
+    "longitude": 8.61666667
+  },
+  {
+    "alias": "obanliku",
+    "name": "Obanliku",
+    "state_code": "CR",
+    "latitude": 6.609277,
+    "longitude": 9.250274
+  },
+  {
+    "alias": "obubra",
+    "name": "Obubra",
+    "state_code": "CR",
+    "latitude": 6.083333,
+    "longitude": 8.333333
+  },
+  {
+    "alias": "obudu",
+    "name": "Obudu",
+    "state_code": "CR",
+    "latitude": 6.66666667,
+    "longitude": 9.16666667
+  },
+  {
+    "alias": "odukpani",
+    "name": "Odukpani",
+    "state_code": "CR",
+    "latitude": 5.079809,
+    "longitude": 8.350403
+  },
+  {
+    "alias": "ogoja",
+    "name": "Ogoja",
+    "state_code": "CR",
+    "latitude": 6.5,
+    "longitude": 8.66666667
+  },
+  {
+    "alias": "yakurr",
+    "name": "Yakurr",
+    "state_code": "CR",
+    "latitude": 5.806111,
+    "longitude": 8.175
+  },
+  {
+    "alias": "yala",
+    "name": "Yala",
+    "state_code": "CR",
+    "latitude": 6.7,
+    "longitude": 8.6
+  },
+  {
+    "alias": "aniocha-north",
+    "name": "Aniocha North",
+    "state_code": "DE",
+    "latitude": 6.319994,
+    "longitude": 6.476847
+  },
+  {
+    "alias": "aniocha-south",
+    "name": "Aniocha South",
+    "state_code": "DE",
+    "latitude": 6.183072,
+    "longitude": 6.524367
+  },
+  {
+    "alias": "bomadi",
+    "name": "Bomadi",
+    "state_code": "DE",
+    "latitude": 5.161805,
+    "longitude": 5.924511
+  },
+  {
+    "alias": "burutu",
+    "name": "Burutu",
+    "state_code": "DE",
+    "latitude": 5.35,
+    "longitude": 5.516667
+  },
+  {
+    "alias": "ethiope-east",
+    "name": "Ethiope East",
+    "state_code": "DE",
+    "latitude": 5.63314,
+    "longitude": 6.028192
+  },
+  {
+    "alias": "ethiope-west",
+    "name": "Ethiope West",
+    "state_code": "DE",
+    "latitude": 5.63314,
+    "longitude": 6.028192
+  },
+  {
+    "alias": "ika-north-east",
+    "name": "Ika North East",
+    "state_code": "DE",
+    "latitude": 6.186379,
+    "longitude": 6.200409
+  },
+  {
+    "alias": "ika-south",
+    "name": "Ika South",
+    "state_code": "DE",
+    "latitude": 6.252758,
+    "longitude": 6.199664
+  },
+  {
+    "alias": "isoko-north",
+    "name": "Isoko North",
+    "state_code": "DE",
+    "latitude": 5.538333,
+    "longitude": 6.216111
+  },
+  {
+    "alias": "isoko-south",
+    "name": "Isoko South",
+    "state_code": "DE",
+    "latitude": 5.538333,
+    "longitude": 6.216111
+  },
+  {
+    "alias": "ndokwa-east",
+    "name": "Ndokwa East",
+    "state_code": "DE",
+    "latitude": 5.669319,
+    "longitude": 6.523171
+  },
+  {
+    "alias": "ndokwa-west",
+    "name": "Ndokwa West",
+    "state_code": "DE",
+    "latitude": 5.815022,
+    "longitude": 6.350772
+  },
+  {
+    "alias": "okpe",
+    "name": "Okpe",
+    "state_code": "DE",
+    "latitude": 5.43333333,
+    "longitude": 5.95
+  },
+  {
+    "alias": "oshimili-north",
+    "name": "Oshimili North",
+    "state_code": "DE",
+    "latitude": 6.382652,
+    "longitude": 6.624309
+  },
+  {
+    "alias": "oshimili-south",
+    "name": "Oshimili South",
+    "state_code": "DE",
+    "latitude": 6.118256,
+    "longitude": 6.66583
+  },
+  {
+    "alias": "patani",
+    "name": "Patani",
+    "state_code": "DE",
+    "latitude": 5.2412505830419045,
+    "longitude": 6.190626760617503
+  },
+  {
+    "alias": "sapele",
+    "name": "Sapele",
+    "state_code": "DE",
+    "latitude": 5.9,
+    "longitude": 5.66666667
+  },
+  {
+    "alias": "udu",
+    "name": "Udu",
+    "state_code": "DE",
+    "latitude": 5.75,
+    "longitude": 5.716667
+  },
+  {
+    "alias": "ughelli-north",
+    "name": "Ughelli North",
+    "state_code": "DE",
+    "latitude": 9.75,
+    "longitude": 8.71666667
+  },
+  {
+    "alias": "ughelli-south",
+    "name": "Ughelli South",
+    "state_code": "DE",
+    "latitude": 9.75,
+    "longitude": 8.71666667
+  },
+  {
+    "alias": "ukwuani",
+    "name": "Ukwuani",
+    "state_code": "DE",
+    "latitude": 5.850198,
+    "longitude": 6.246481
+  },
+  {
+    "alias": "uvwie",
+    "name": "Uvwie",
+    "state_code": "DE",
+    "latitude": 5.87,
+    "longitude": 6.001
+  },
+  {
+    "alias": "warri-north",
+    "name": "Warri North",
+    "state_code": "DE",
+    "latitude": 6.000089,
+    "longitude": 5.466481
+  },
+  {
+    "alias": "warri-south",
+    "name": "Warri South",
+    "state_code": "DE",
+    "latitude": 5.519063,
+    "longitude": 5.800606
+  },
+  {
+    "alias": "warri-south-west",
+    "name": "Warri South West",
+    "state_code": "DE",
+    "latitude": 5.599713,
+    "longitude": 5.454881
+  },
+  {
+    "alias": "abakaliki",
+    "name": "Abakaliki",
+    "state_code": "EB",
+    "latitude": 6.33333333,
+    "longitude": 8.1
+  },
+  {
+    "alias": "afikpo-north",
+    "name": "Afikpo North",
+    "state_code": "EB",
+    "latitude": 5.887936,
+    "longitude": 7.953071
+  },
+  {
+    "alias": "afikpo-south",
+    "name": "Afikpo South",
+    "state_code": "EB",
+    "latitude": 5.96666667,
+    "longitude": 7.86666667
+  },
+  {
+    "alias": "ebonyi",
+    "name": "Ebonyi",
+    "state_code": "EB",
+    "latitude": 6.25,
+    "longitude": 8.08333333
+  },
+  {
+    "alias": "ezza-north",
+    "name": "Ezza North",
+    "state_code": "EB",
+    "latitude": 6.081572,
+    "longitude": 7.995858
+  },
+  {
+    "alias": "ezza-south",
+    "name": "Ezza South",
+    "state_code": "EB",
+    "latitude": 6.177757,
+    "longitude": 8.040377
+  },
+  {
+    "alias": "ikwo",
+    "name": "Ikwo",
+    "state_code": "EB",
+    "latitude": 12.473,
+    "longitude": 7.487
+  },
+  {
+    "alias": "ishielu",
+    "name": "Ishielu",
+    "state_code": "EB",
+    "latitude": 6.428567,
+    "longitude": 7.818371
+  },
+  {
+    "alias": "ivo",
+    "name": "Ivo",
+    "state_code": "EB",
+    "latitude": 5.919317,
+    "longitude": 7.55976
+  },
+  {
+    "alias": "izzi",
+    "name": "Izzi",
+    "state_code": "EB",
+    "latitude": 6.385765,
+    "longitude": 8.02549
+  },
+  {
+    "alias": "ohaozara",
+    "name": "Ohaozara",
+    "state_code": "EB",
+    "latitude": 6.030218,
+    "longitude": 7.71407
+  },
+  {
+    "alias": "ohaukwu",
+    "name": "Ohaukwu",
+    "state_code": "EB",
+    "latitude": 6.030218,
+    "longitude": 7.71407
+  },
+  {
+    "alias": "onicha",
+    "name": "Onicha",
+    "state_code": "EB",
+    "latitude": 6.11252,
+    "longitude": 7.825484
+  },
+  {
+    "alias": "akoko-edo",
+    "name": "Akoko Edo",
+    "state_code": "ED",
+    "latitude": 7.275622,
+    "longitude": 6.107379
+  },
+  {
+    "alias": "egor",
+    "name": "Egor",
+    "state_code": "ED",
+    "latitude": 6.382926,
+    "longitude": 5.569175
+  },
+  {
+    "alias": "esan-central",
+    "name": "Esan Central",
+    "state_code": "ED",
+    "latitude": 6.738727,
+    "longitude": 6.218905
+  },
+  {
+    "alias": "esan-north-east",
+    "name": "Esan North East",
+    "state_code": "ED",
+    "latitude": 6.7,
+    "longitude": 6.333333
+  },
+  {
+    "alias": "esan-south-east",
+    "name": "Esan South East",
+    "state_code": "ED",
+    "latitude": 6.659722,
+    "longitude": 6.382222
+  },
+  {
+    "alias": "esan-west",
+    "name": "Esan West",
+    "state_code": "ED",
+    "latitude": 6.753472,
+    "longitude": 6.073766
+  },
+  {
+    "alias": "etsako-central",
+    "name": "Etsako Central",
+    "state_code": "ED",
+    "latitude": 7.08965,
+    "longitude": 6.50146
+  },
+  {
+    "alias": "etsako-east",
+    "name": "Etsako East",
+    "state_code": "ED",
+    "latitude": 7.106769,
+    "longitude": 6.687541
+  },
+  {
+    "alias": "etsako-west",
+    "name": "Etsako West",
+    "state_code": "ED",
+    "latitude": 6.913601,
+    "longitude": 6.29955
+  },
+  {
+    "alias": "igueben",
+    "name": "Igueben",
+    "state_code": "ED",
+    "latitude": 6.6,
+    "longitude": 6.58333333
+  },
+  {
+    "alias": "ikpoba-okha",
+    "name": "Ikpoba Okha",
+    "state_code": "ED",
+    "latitude": 6.256981,
+    "longitude": 5.722929
+  },
+  {
+    "alias": "oredo",
+    "name": "Oredo",
+    "state_code": "ED",
+    "latitude": 6.183772,
+    "longitude": 5.596106
+  },
+  {
+    "alias": "orhionmwon",
+    "name": "Orhionmwon",
+    "state_code": "ED",
+    "latitude": 6.294568,
+    "longitude": 6.027932
+  },
+  {
+    "alias": "ovia-north-east",
+    "name": "Ovia North East",
+    "state_code": "ED",
+    "latitude": 6.29312,
+    "longitude": 5.543304
+  },
+  {
+    "alias": "ovia-south-west",
+    "name": "Ovia South West",
+    "state_code": "ED",
+    "latitude": 6.567402,
+    "longitude": 5.353142
+  },
+  {
+    "alias": "owan-east",
+    "name": "Owan East",
+    "state_code": "ED",
+    "latitude": 6.943126,
+    "longitude": 5.985832
+  },
+  {
+    "alias": "owan-west",
+    "name": "Owan West",
+    "state_code": "ED",
+    "latitude": 6.907245,
+    "longitude": 5.924599
+  },
+  {
+    "alias": "uhunmwonde",
+    "name": "Uhunmwonde",
+    "state_code": "ED",
+    "latitude": 6.617483,
+    "longitude": 5.985682
+  },
+  {
+    "alias": "ado-ekiti",
+    "name": "Ado-Ekiti",
+    "state_code": "EK",
+    "latitude": 7.621111,
+    "longitude": 5.221389
+  },
+  {
+    "alias": "efon",
+    "name": "Efon",
+    "state_code": "EK",
+    "latitude": 7.36666667,
+    "longitude": 3.63333333
+  },
+  {
+    "alias": "ekiti-east",
+    "name": "Ekiti East",
+    "state_code": "EK",
+    "latitude": 7.749096,
+    "longitude": 5.719633
+  },
+  {
+    "alias": "ekiti-south-west",
+    "name": "Ekiti South West",
+    "state_code": "EK",
+    "latitude": 7.617082,
+    "longitude": 5.24349
+  },
+  {
+    "alias": "ekiti-west",
+    "name": "Ekiti West",
+    "state_code": "EK",
+    "latitude": 7.657723,
+    "longitude": 5.223741
+  },
+  {
+    "alias": "emure",
+    "name": "Emure",
+    "state_code": "EK",
+    "latitude": 7.45,
+    "longitude": 5.46667
+  },
+  {
+    "alias": "gbonyin",
+    "name": "Gbonyin",
+    "state_code": "EK",
+    "latitude": 7.621623,
+    "longitude": 5.239016
+  },
+  {
+    "alias": "ido-osi",
+    "name": "Ido-Osi",
+    "state_code": "EK",
+    "latitude": 7.856505,
+    "longitude": 5.175537
+  },
+  {
+    "alias": "ijero",
+    "name": "Ijero",
+    "state_code": "EK",
+    "latitude": 7.81667,
+    "longitude": 5.08333
+  },
+  {
+    "alias": "ikere",
+    "name": "Ikere",
+    "state_code": "EK",
+    "latitude": 7.5,
+    "longitude": 5.23333
+  },
+  {
+    "alias": "ikole",
+    "name": "Ikole",
+    "state_code": "EK",
+    "latitude": 7.78333333,
+    "longitude": 5.51666667
+  },
+  {
+    "alias": "ilejemeje",
+    "name": "Ilejemeje",
+    "state_code": "EK",
+    "latitude": 7.953263,
+    "longitude": 5.230908
+  },
+  {
+    "alias": "irepodun/ifelodun",
+    "name": "Irepodun/Ifelodun",
+    "state_code": "EK",
+    "latitude": 7.621111,
+    "longitude": 5.221389
+  },
+  {
+    "alias": "ise/orun",
+    "name": "Ise/Orun",
+    "state_code": "EK",
+    "latitude": 7.46,
+    "longitude": 5.42
+  },
+  {
+    "alias": "moba",
+    "name": "Moba",
+    "state_code": "EK",
+    "latitude": 7.987774,
+    "longitude": 5.124049
+  },
+  {
+    "alias": "oye",
+    "name": "Oye",
+    "state_code": "EK",
+    "latitude": 7.79944444,
+    "longitude": 5.32833333
+  },
+  {
+    "alias": "aninri",
+    "name": "Aninri",
+    "state_code": "EN",
+    "latitude": 6.05,
+    "longitude": 7.58333333
+  },
+  {
+    "alias": "awgu",
+    "name": "Awgu",
+    "state_code": "EN",
+    "latitude": 6.1169,
+    "longitude": 7.476
+  },
+  {
+    "alias": "enugu-east",
+    "name": "Enugu East",
+    "state_code": "EN",
+    "latitude": 6.53333,
+    "longitude": 7.53333
+  },
+  {
+    "alias": "enugu-north",
+    "name": "Enugu North",
+    "state_code": "EN",
+    "latitude": 6.46666667,
+    "longitude": 7.51666667
+  },
+  {
+    "alias": "enugu-south",
+    "name": "Enugu South",
+    "state_code": "EN",
+    "latitude": 6.4,
+    "longitude": 7.5
+  },
+  {
+    "alias": "ezeagu",
+    "name": "Ezeagu",
+    "state_code": "EN",
+    "latitude": 6.75,
+    "longitude": 7.33333333
+  },
+  {
+    "alias": "igbo-etiti",
+    "name": "Igbo Etiti",
+    "state_code": "EN",
+    "latitude": 6.66667,
+    "longitude": 7.36667
+  },
+  {
+    "alias": "igbo-eze-north",
+    "name": "Igbo Eze North",
+    "state_code": "EN",
+    "latitude": 6.98333,
+    "longitude": 7.45
+  },
+  {
+    "alias": "igbo-eze-south",
+    "name": "Igbo Eze South",
+    "state_code": "EN",
+    "latitude": 6.91667,
+    "longitude": 7.4
+  },
+  {
+    "alias": "isi-uzo",
+    "name": "Isi-Uzo",
+    "state_code": "EN",
+    "latitude": 6.78333333,
+    "longitude": 7.71666667
+  },
+  {
+    "alias": "nkanu-east",
+    "name": "Nkanu East",
+    "state_code": "EN",
+    "latitude": 6.33333333,
+    "longitude": 7.65
+  },
+  {
+    "alias": "nkanu-west",
+    "name": "Nkanu West",
+    "state_code": "EN",
+    "latitude": 6.3,
+    "longitude": 7.55
+  },
+  {
+    "alias": "nsukka",
+    "name": "Nsukka",
+    "state_code": "EN",
+    "latitude": 6.85666667,
+    "longitude": 7.39583333
+  },
+  {
+    "alias": "oji-river",
+    "name": "Oji-River",
+    "state_code": "EN",
+    "latitude": 6.26666667,
+    "longitude": 7.26666667
+  },
+  {
+    "alias": "udenu",
+    "name": "Udenu",
+    "state_code": "EN",
+    "latitude": 6.91667,
+    "longitude": 7.51667
+  },
+  {
+    "alias": "udi",
+    "name": "Udi",
+    "state_code": "EN",
+    "latitude": 6.31667,
+    "longitude": 7.43333
+  },
+  {
+    "alias": "uzo-uwani",
+    "name": "Uzo-Uwani",
+    "state_code": "EN",
+    "latitude": 6.75,
+    "longitude": 7.2
+  },
+  {
+    "alias": "abaji",
+    "name": "Abaji",
+    "state_code": "FC",
+    "latitude": 8.475556,
+    "longitude": 6.943333
+  },
+  {
+    "alias": "abuja",
+    "name": "Abuja",
+    "state_code": "FC",
+    "latitude": 9.06666667,
+    "longitude": 7.48333333
+  },
+  {
+    "alias": "bwari",
+    "name": "Bwari",
+    "state_code": "FC",
+    "latitude": 9.280278,
+    "longitude": 7.38
+  },
+  {
+    "alias": "gwagwalada",
+    "name": "Gwagwalada",
+    "state_code": "FC",
+    "latitude": 8.939167,
+    "longitude": 7.075833
+  },
+  {
+    "alias": "kuje",
+    "name": "Kuje",
+    "state_code": "FC",
+    "latitude": 8.88222222,
+    "longitude": 7.22027778
+  },
+  {
+    "alias": "kwali",
+    "name": "Kwali",
+    "state_code": "FC",
+    "latitude": 8.839722,
+    "longitude": 7.054167
+  },
+  {
+    "alias": "akko",
+    "name": "Akko",
+    "state_code": "GO",
+    "latitude": 10.10706761352457,
+    "longitude": 11.041261362116334
+  },
+  {
+    "alias": "balanga",
+    "name": "Balanga",
+    "state_code": "GO",
+    "latitude": 9.96666667,
+    "longitude": 11.68333333
+  },
+  {
+    "alias": "billiri",
+    "name": "Billiri",
+    "state_code": "GO",
+    "latitude": 9.83333333,
+    "longitude": 11.15
+  },
+  {
+    "alias": "dukku",
+    "name": "Dukku",
+    "state_code": "GO",
+    "latitude": 10.81666667,
+    "longitude": 10.76666667
+  },
+  {
+    "alias": "funakaye",
+    "name": "Funakaye",
+    "state_code": "GO",
+    "latitude": 10.85,
+    "longitude": 11.43333333
+  },
+  {
+    "alias": "gombe",
+    "name": "Gombe",
+    "state_code": "GO",
+    "latitude": 10.28333333,
+    "longitude": 11.16666667
+  },
+  {
+    "alias": "kaltungo",
+    "name": "Kaltungo",
+    "state_code": "GO",
+    "latitude": 9.88333333,
+    "longitude": 11.43333333
+  },
+  {
+    "alias": "kwami",
+    "name": "Kwami",
+    "state_code": "GO",
+    "latitude": 10.5,
+    "longitude": 11.25
+  },
+  {
+    "alias": "nafada",
+    "name": "Nafada",
+    "state_code": "GO",
+    "latitude": 11.1333,
+    "longitude": 11.25
+  },
+  {
+    "alias": "shongom",
+    "name": "Shongom",
+    "state_code": "GO",
+    "latitude": 9.65,
+    "longitude": 11.2167
+  },
+  {
+    "alias": "yamaltu/deba",
+    "name": "Yamaltu/Deba",
+    "state_code": "GO",
+    "latitude": 10.2167,
+    "longitude": 11.3833
+  },
+  {
+    "alias": "aboh-mbaise",
+    "name": "Aboh Mbaise",
+    "state_code": "IM",
+    "latitude": 5.45,
+    "longitude": 7.23333333
+  },
+  {
+    "alias": "ahiazu-mbaise",
+    "name": "Ahiazu Mbaise",
+    "state_code": "IM",
+    "latitude": 5.546985,
+    "longitude": 7.270299
+  },
+  {
+    "alias": "ehime-mbano",
+    "name": "Ehime Mbano",
+    "state_code": "IM",
+    "latitude": 5.66258,
+    "longitude": 7.30387
+  },
+  {
+    "alias": "ezinihitte-mbaise",
+    "name": "Ezinihitte Mbaise",
+    "state_code": "IM",
+    "latitude": 5.50511,
+    "longitude": 7.367715
+  },
+  {
+    "alias": "ideato-north",
+    "name": "Ideato North",
+    "state_code": "IM",
+    "latitude": 5.50511,
+    "longitude": 7.367715
+  },
+  {
+    "alias": "ideato-south",
+    "name": "Ideato South",
+    "state_code": "IM",
+    "latitude": 5.85,
+    "longitude": 7.1
+  },
+  {
+    "alias": "ihitte/uboma",
+    "name": "Ihitte/Uboma",
+    "state_code": "IM",
+    "latitude": 5.616412,
+    "longitude": 7.349424
+  },
+  {
+    "alias": "ikeduru",
+    "name": "Ikeduru",
+    "state_code": "IM",
+    "latitude": 5.550556,
+    "longitude": 7.066389
+  },
+  {
+    "alias": "isiala-mbano",
+    "name": "Isiala Mbano",
+    "state_code": "IM",
+    "latitude": 5.703582,
+    "longitude": 7.179541
+  },
+  {
+    "alias": "isu",
+    "name": "Isu",
+    "state_code": "IM",
+    "latitude": 5.68388889,
+    "longitude": 7.06888889
+  },
+  {
+    "alias": "mbaitoli",
+    "name": "Mbaitoli",
+    "state_code": "IM",
+    "latitude": 5.587778,
+    "longitude": 7.05
+  },
+  {
+    "alias": "ngor-okpala",
+    "name": "Ngor Okpala",
+    "state_code": "IM",
+    "latitude": 5.496233,
+    "longitude": 7.043545
+  },
+  {
+    "alias": "njaba",
+    "name": "Njaba",
+    "state_code": "IM",
+    "latitude": 5.702103,
+    "longitude": 7.018633
+  },
+  {
+    "alias": "nkwerre",
+    "name": "Nkwerre",
+    "state_code": "IM",
+    "latitude": 5.75,
+    "longitude": 7.1
+  },
+  {
+    "alias": "nwangele",
+    "name": "Nwangele",
+    "state_code": "IM",
+    "latitude": 5.725859,
+    "longitude": 7.119447
+  },
+  {
+    "alias": "obowo",
+    "name": "Obowo",
+    "state_code": "IM",
+    "latitude": 5.601592,
+    "longitude": 7.320757
+  },
+  {
+    "alias": "oguta",
+    "name": "Oguta",
+    "state_code": "IM",
+    "latitude": 5.71166667,
+    "longitude": 6.80944444
+  },
+  {
+    "alias": "ohaji/egbema",
+    "name": "Ohaji/Egbema",
+    "state_code": "IM",
+    "latitude": 5.305833,
+    "longitude": 6.945556
+  },
+  {
+    "alias": "okigwe",
+    "name": "Okigwe",
+    "state_code": "IM",
+    "latitude": 5.483,
+    "longitude": 7.55
+  },
+  {
+    "alias": "onuimo",
+    "name": "Onuimo",
+    "state_code": "IM",
+    "latitude": 5.77363,
+    "longitude": 7.2411
+  },
+  {
+    "alias": "orlu",
+    "name": "Orlu",
+    "state_code": "IM",
+    "latitude": 5.79638889,
+    "longitude": 7.03888889
+  },
+  {
+    "alias": "orsu",
+    "name": "Orsu",
+    "state_code": "IM",
+    "latitude": 5.853889,
+    "longitude": 6.86
+  },
+  {
+    "alias": "oru-east",
+    "name": "Oru East",
+    "state_code": "IM",
+    "latitude": 5.983333,
+    "longitude": 6.983333
+  },
+  {
+    "alias": "oru-west",
+    "name": "Oru West",
+    "state_code": "IM",
+    "latitude": 5.735833,
+    "longitude": 6.883333
+  },
+  {
+    "alias": "owerri-municipal",
+    "name": "Owerri Municipal",
+    "state_code": "IM",
+    "latitude": 5.485,
+    "longitude": 7.035
+  },
+  {
+    "alias": "owerri-north",
+    "name": "Owerri North",
+    "state_code": "IM",
+    "latitude": 5.456667,
+    "longitude": 7.102778
+  },
+  {
+    "alias": "owerri-west",
+    "name": "Owerri West",
+    "state_code": "IM",
+    "latitude": 5.476513,
+    "longitude": 6.979718
+  },
+  {
+    "alias": "auyo",
+    "name": "Auyo",
+    "state_code": "JI",
+    "latitude": 12.36,
+    "longitude": 9.98555556
+  },
+  {
+    "alias": "babura",
+    "name": "Babura",
+    "state_code": "JI",
+    "latitude": 12.63333333,
+    "longitude": 8.96666667
+  },
+  {
+    "alias": "biriniwa",
+    "name": "Biriniwa",
+    "state_code": "JI",
+    "latitude": 12.7833,
+    "longitude": 10.2333
+  },
+  {
+    "alias": "birnin-kudu",
+    "name": "Birnin Kudu",
+    "state_code": "JI",
+    "latitude": 11.45,
+    "longitude": 9.475
+  },
+  {
+    "alias": "buji",
+    "name": "Buji",
+    "state_code": "JI",
+    "latitude": 11.66371,
+    "longitude": 9.730518
+  },
+  {
+    "alias": "dutse",
+    "name": "Dutse",
+    "state_code": "JI",
+    "latitude": 11.70111111,
+    "longitude": 9.34194444
+  },
+  {
+    "alias": "gagarawa",
+    "name": "Gagarawa",
+    "state_code": "JI",
+    "latitude": 12.407564,
+    "longitude": 9.528397
+  },
+  {
+    "alias": "garki",
+    "name": "Garki",
+    "state_code": "JI",
+    "latitude": 12.432259,
+    "longitude": 9.181244
+  },
+  {
+    "alias": "gumel",
+    "name": "Gumel",
+    "state_code": "JI",
+    "latitude": 12.62833333,
+    "longitude": 9.38972222
+  },
+  {
+    "alias": "guri",
+    "name": "Guri",
+    "state_code": "JI",
+    "latitude": 12.633757685656763,
+    "longitude": 10.481106764515644
+  },
+  {
+    "alias": "gwaram",
+    "name": "Gwaram",
+    "state_code": "JI",
+    "latitude": 11.185833,
+    "longitude": 9.968611
+  },
+  {
+    "alias": "gwiwa",
+    "name": "Gwiwa",
+    "state_code": "JI",
+    "latitude": 12.736914,
+    "longitude": 8.271095
+  },
+  {
+    "alias": "hadejia",
+    "name": "Hadejia",
+    "state_code": "JI",
+    "latitude": 12.45,
+    "longitude": 10.04
+  },
+  {
+    "alias": "jahun",
+    "name": "Jahun",
+    "state_code": "JI",
+    "latitude": 12.06666667,
+    "longitude": 9.63333333
+  },
+  {
+    "alias": "kafin-hausa",
+    "name": "Kafin Hausa",
+    "state_code": "JI",
+    "latitude": 11.981763,
+    "longitude": 8.496467
+  },
+  {
+    "alias": "kaugama",
+    "name": "Kaugama",
+    "state_code": "JI",
+    "latitude": 12.4833,
+    "longitude": 9.73333
+  },
+  {
+    "alias": "kazaure",
+    "name": "Kazaure",
+    "state_code": "JI",
+    "latitude": 12.6528,
+    "longitude": 8.41194
+  },
+  {
+    "alias": "kiri-kasama",
+    "name": "Kiri Kasama",
+    "state_code": "JI",
+    "latitude": 12.594408,
+    "longitude": 10.214753
+  },
+  {
+    "alias": "kiyawa",
+    "name": "Kiyawa",
+    "state_code": "JI",
+    "latitude": 11.78472222,
+    "longitude": 9.60833333
+  },
+  {
+    "alias": "maigatari",
+    "name": "Maigatari",
+    "state_code": "JI",
+    "latitude": 12.804038,
+    "longitude": 9.448007
+  },
+  {
+    "alias": "malam-madori",
+    "name": "Malam Madori",
+    "state_code": "JI",
+    "latitude": 12.554071,
+    "longitude": 10.028136
+  },
+  {
+    "alias": "miga",
+    "name": "Miga",
+    "state_code": "JI",
+    "latitude": 12.23333333,
+    "longitude": 9.71666667
+  },
+  {
+    "alias": "ringim",
+    "name": "Ringim",
+    "state_code": "JI",
+    "latitude": 12.28333333,
+    "longitude": 9.46666667
+  },
+  {
+    "alias": "roni",
+    "name": "Roni",
+    "state_code": "JI",
+    "latitude": 12.566481,
+    "longitude": 8.347088
+  },
+  {
+    "alias": "sule-tankarkar",
+    "name": "Sule Tankarkar",
+    "state_code": "JI",
+    "latitude": 12.65577,
+    "longitude": 9.18751
+  },
+  {
+    "alias": "taura",
+    "name": "Taura",
+    "state_code": "JI",
+    "latitude": 12.2724893,
+    "longitude": 9.36241882485775
+  },
+  {
+    "alias": "yankwashi",
+    "name": "Yankwashi",
+    "state_code": "JI",
+    "latitude": 12.743623,
+    "longitude": 8.53892
+  },
+  {
+    "alias": "birnin-gwari",
+    "name": "Birnin Gwari",
+    "state_code": "KD",
+    "latitude": 10.6667,
+    "longitude": 6.55
+  },
+  {
+    "alias": "chikun",
+    "name": "Chikun",
+    "state_code": "KD",
+    "latitude": 10.285059,
+    "longitude": 7.110283
+  },
+  {
+    "alias": "giwa",
+    "name": "Giwa",
+    "state_code": "KD",
+    "latitude": 11.280784,
+    "longitude": 7.417606
+  },
+  {
+    "alias": "igabi",
+    "name": "Igabi",
+    "state_code": "KD",
+    "latitude": 10.78333333,
+    "longitude": 7.76666667
+  },
+  {
+    "alias": "ikara",
+    "name": "Ikara",
+    "state_code": "KD",
+    "latitude": 11.1833,
+    "longitude": 8.23333
+  },
+  {
+    "alias": "jaba",
+    "name": "Jaba",
+    "state_code": "KD",
+    "latitude": 9.44818,
+    "longitude": 8.00845
+  },
+  {
+    "alias": "jema'a",
+    "name": "Jema'a",
+    "state_code": "KD",
+    "latitude": 9.578827,
+    "longitude": 8.292147
+  },
+  {
+    "alias": "kachia",
+    "name": "Kachia",
+    "state_code": "KD",
+    "latitude": 9.872636,
+    "longitude": 7.955089
+  },
+  {
+    "alias": "kaduna-north",
+    "name": "Kaduna North",
+    "state_code": "KD",
+    "latitude": 9.923174,
+    "longitude": 7.430551
+  },
+  {
+    "alias": "kaduna-south",
+    "name": "Kaduna South",
+    "state_code": "KD",
+    "latitude": 10.464834,
+    "longitude": 7.418024
+  },
+  {
+    "alias": "kagarko",
+    "name": "Kagarko",
+    "state_code": "KD",
+    "latitude": 9.45,
+    "longitude": 7.68333333
+  },
+  {
+    "alias": "kajuru",
+    "name": "Kajuru",
+    "state_code": "KD",
+    "latitude": 9.489736,
+    "longitude": 7.695075
+  },
+  {
+    "alias": "kaura",
+    "name": "Kaura",
+    "state_code": "KD",
+    "latitude": 9.630686,
+    "longitude": 8.503075
+  },
+  {
+    "alias": "kauru",
+    "name": "Kauru",
+    "state_code": "KD",
+    "latitude": 10.65,
+    "longitude": 8.15
+  },
+  {
+    "alias": "kubau",
+    "name": "Kubau",
+    "state_code": "KD",
+    "latitude": 10.96289,
+    "longitude": 8.392213
+  },
+  {
+    "alias": "kudan",
+    "name": "Kudan",
+    "state_code": "KD",
+    "latitude": 11.26478,
+    "longitude": 7.648952
+  },
+  {
+    "alias": "lere",
+    "name": "Lere",
+    "state_code": "KD",
+    "latitude": 10.416589,
+    "longitude": 8.681673
+  },
+  {
+    "alias": "makarfi",
+    "name": "Makarfi",
+    "state_code": "KD",
+    "latitude": 11.29795,
+    "longitude": 7.96917
+  },
+  {
+    "alias": "sabon-gari",
+    "name": "Sabon Gari",
+    "state_code": "KD",
+    "latitude": 11.1167,
+    "longitude": 7.73333
+  },
+  {
+    "alias": "sanga",
+    "name": "Sanga",
+    "state_code": "KD",
+    "latitude": 9.225183,
+    "longitude": 8.459182
+  },
+  {
+    "alias": "soba",
+    "name": "Soba",
+    "state_code": "KD",
+    "latitude": 10.984935,
+    "longitude": 8.058804
+  },
+  {
+    "alias": "zangon-kataf",
+    "name": "Zangon Kataf",
+    "state_code": "KD",
+    "latitude": 9.784597,
+    "longitude": 8.283949
+  },
+  {
+    "alias": "zaria",
+    "name": "Zaria",
+    "state_code": "KD",
+    "latitude": 11.06666667,
+    "longitude": 7.7
+  },
+  {
+    "alias": "aliero",
+    "name": "Aliero",
+    "state_code": "KE",
+    "latitude": 12.29654,
+    "longitude": 4.42793
+  },
+  {
+    "alias": "arewa-dandi",
+    "name": "Arewa Dandi",
+    "state_code": "KE",
+    "latitude": 12.688388,
+    "longitude": 4.074184
+  },
+  {
+    "alias": "argungu",
+    "name": "Argungu",
+    "state_code": "KE",
+    "latitude": 12.73333333,
+    "longitude": 4.51666667
+  },
+  {
+    "alias": "augie",
+    "name": "Augie",
+    "state_code": "KE",
+    "latitude": 12.88333333,
+    "longitude": 4.6
+  },
+  {
+    "alias": "bagudo",
+    "name": "Bagudo",
+    "state_code": "KE",
+    "latitude": 11.400095,
+    "longitude": 4.225767
+  },
+  {
+    "alias": "birnin-kebbi",
+    "name": "Birnin Kebbi",
+    "state_code": "KE",
+    "latitude": 12.45361111,
+    "longitude": 4.20027778
+  },
+  {
+    "alias": "bunza",
+    "name": "Bunza",
+    "state_code": "KE",
+    "latitude": 12.0916,
+    "longitude": 4.0108
+  },
+  {
+    "alias": "dandi",
+    "name": "Dandi",
+    "state_code": "KE",
+    "latitude": 12.68333333,
+    "longitude": 8.66666667
+  },
+  {
+    "alias": "danko-wasagu",
+    "name": "Danko-Wasagu",
+    "state_code": "KE",
+    "latitude": 11.395688,
+    "longitude": 5.485568
+  },
+  {
+    "alias": "fakai",
+    "name": "Fakai",
+    "state_code": "KE",
+    "latitude": 11.547523,
+    "longitude": 4.96493
+  },
+  {
+    "alias": "gwandu",
+    "name": "Gwandu",
+    "state_code": "KE",
+    "latitude": 12.50222222,
+    "longitude": 4.6425
+  },
+  {
+    "alias": "jega",
+    "name": "Jega",
+    "state_code": "KE",
+    "latitude": 12.3667,
+    "longitude": 4.6333
+  },
+  {
+    "alias": "kalgo",
+    "name": "Kalgo",
+    "state_code": "KE",
+    "latitude": 12.33257,
+    "longitude": 4.20035
+  },
+  {
+    "alias": "koko/besse",
+    "name": "Koko/Besse",
+    "state_code": "KE",
+    "latitude": 11.45855,
+    "longitude": 4.43782
+  },
+  {
+    "alias": "maiyama",
+    "name": "Maiyama",
+    "state_code": "KE",
+    "latitude": 11.99054,
+    "longitude": 4.35394
+  },
+  {
+    "alias": "ngaski",
+    "name": "Ngaski",
+    "state_code": "KE",
+    "latitude": 10.40709,
+    "longitude": 4.71781
+  },
+  {
+    "alias": "sakaba",
+    "name": "Sakaba",
+    "state_code": "KE",
+    "latitude": 11.065401,
+    "longitude": 5.596032
+  },
+  {
+    "alias": "shanga",
+    "name": "Shanga",
+    "state_code": "KE",
+    "latitude": 11.1958,
+    "longitude": 4.5675
+  },
+  {
+    "alias": "suru",
+    "name": "Suru",
+    "state_code": "KE",
+    "latitude": 11.83,
+    "longitude": 4.096667
+  },
+  {
+    "alias": "yauri",
+    "name": "Yauri",
+    "state_code": "KE",
+    "latitude": 11.395688,
+    "longitude": 5.485568
+  },
+  {
+    "alias": "zuru",
+    "name": "Zuru",
+    "state_code": "KE",
+    "latitude": 11.435,
+    "longitude": 5.235
+  },
+  {
+    "alias": "ajingi",
+    "name": "Ajingi",
+    "state_code": "KN",
+    "latitude": 11.97,
+    "longitude": 9.03916667
+  },
+  {
+    "alias": "albasu",
+    "name": "Albasu",
+    "state_code": "KN",
+    "latitude": 11.67388889,
+    "longitude": 9.14111111
+  },
+  {
+    "alias": "bagwai",
+    "name": "Bagwai",
+    "state_code": "KN",
+    "latitude": 12.15777778,
+    "longitude": 8.13583333
+  },
+  {
+    "alias": "bebeji",
+    "name": "Bebeji",
+    "state_code": "KN",
+    "latitude": 11.66666667,
+    "longitude": 8.26666667
+  },
+  {
+    "alias": "bichi",
+    "name": "Bichi",
+    "state_code": "KN",
+    "latitude": 12.23416667,
+    "longitude": 8.24111111
+  },
+  {
+    "alias": "bunkure",
+    "name": "Bunkure",
+    "state_code": "KN",
+    "latitude": 11.7,
+    "longitude": 8.55
+  },
+  {
+    "alias": "dala",
+    "name": "Dala",
+    "state_code": "KN",
+    "latitude": 12.01666667,
+    "longitude": 8.48333333
+  },
+  {
+    "alias": "dambatta",
+    "name": "Dambatta",
+    "state_code": "KN",
+    "latitude": 12.43305556,
+    "longitude": 8.51527778
+  },
+  {
+    "alias": "dawakin-kudu",
+    "name": "Dawakin Kudu",
+    "state_code": "KN",
+    "latitude": 11.83472222,
+    "longitude": 8.59805556
+  },
+  {
+    "alias": "dawakin-tofa",
+    "name": "Dawakin Tofa",
+    "state_code": "KN",
+    "latitude": 12.10277778,
+    "longitude": 8.33138889
+  },
+  {
+    "alias": "doguwa",
+    "name": "Doguwa",
+    "state_code": "KN",
+    "latitude": 10.75,
+    "longitude": 8.73333333
+  },
+  {
+    "alias": "fagge",
+    "name": "Fagge",
+    "state_code": "KN",
+    "latitude": 12.00666667,
+    "longitude": 8.52916667
+  },
+  {
+    "alias": "gabasawa",
+    "name": "Gabasawa",
+    "state_code": "KN",
+    "latitude": 12.1,
+    "longitude": 8.88333333
+  },
+  {
+    "alias": "garko",
+    "name": "Garko",
+    "state_code": "KN",
+    "latitude": 11.65,
+    "longitude": 8.9
+  },
+  {
+    "alias": "garun-malam",
+    "name": "Garun Malam",
+    "state_code": "KN",
+    "latitude": 11.6833,
+    "longitude": 8.36667
+  },
+  {
+    "alias": "gaya",
+    "name": "Gaya",
+    "state_code": "KN",
+    "latitude": 11.86805556,
+    "longitude": 9.01111111
+  },
+  {
+    "alias": "gezawa",
+    "name": "Gezawa",
+    "state_code": "KN",
+    "latitude": 12.1,
+    "longitude": 8.73333333
+  },
+  {
+    "alias": "gwale",
+    "name": "Gwale",
+    "state_code": "KN",
+    "latitude": 11.96666667,
+    "longitude": 8.5
+  },
+  {
+    "alias": "gwarzo",
+    "name": "Gwarzo",
+    "state_code": "KN",
+    "latitude": 11.91666667,
+    "longitude": 7.93333333
+  },
+  {
+    "alias": "kabo",
+    "name": "Kabo",
+    "state_code": "KN",
+    "latitude": 11.891463250000001,
+    "longitude": 8.200628471157401
+  },
+  {
+    "alias": "kano-municipal",
+    "name": "Kano Municipal",
+    "state_code": "KN",
+    "latitude": 11.95194444,
+    "longitude": 8.54027778
+  },
+  {
+    "alias": "karaye",
+    "name": "Karaye",
+    "state_code": "KN",
+    "latitude": 11.78333333,
+    "longitude": 8.01666667
+  },
+  {
+    "alias": "kibiya",
+    "name": "Kibiya",
+    "state_code": "KN",
+    "latitude": 11.53333333,
+    "longitude": 8.66666667
+  },
+  {
+    "alias": "kiru",
+    "name": "Kiru",
+    "state_code": "KN",
+    "latitude": 11.7,
+    "longitude": 8.13333333
+  },
+  {
+    "alias": "kunchi",
+    "name": "Kunchi",
+    "state_code": "KN",
+    "latitude": 12.50138889,
+    "longitude": 8.27166667
+  },
+  {
+    "alias": "kura",
+    "name": "Kura",
+    "state_code": "KN",
+    "latitude": 11.77138889,
+    "longitude": 8.43027778
+  },
+  {
+    "alias": "madobi",
+    "name": "Madobi",
+    "state_code": "KN",
+    "latitude": 11.77722222,
+    "longitude": 8.28833333
+  },
+  {
+    "alias": "makoda",
+    "name": "Makoda",
+    "state_code": "KN",
+    "latitude": 12.41861111,
+    "longitude": 8.4325
+  },
+  {
+    "alias": "minjibir",
+    "name": "Minjibir",
+    "state_code": "KN",
+    "latitude": 12.17833333,
+    "longitude": 8.65916667
+  },
+  {
+    "alias": "nasarawa",
+    "name": "Nasarawa",
+    "state_code": "KN",
+    "latitude": 8.53333333,
+    "longitude": 8.3
+  },
+  {
+    "alias": "rano",
+    "name": "Rano",
+    "state_code": "KN",
+    "latitude": 11.55722222,
+    "longitude": 8.58333333
+  },
+  {
+    "alias": "rimin-gado",
+    "name": "Rimin Gado",
+    "state_code": "KN",
+    "latitude": 11.965,
+    "longitude": 8.25
+  },
+  {
+    "alias": "rogo",
+    "name": "Rogo",
+    "state_code": "KN",
+    "latitude": 11.56666667,
+    "longitude": 7.83333333
+  },
+  {
+    "alias": "shanono",
+    "name": "Shanono",
+    "state_code": "KN",
+    "latitude": 12.05,
+    "longitude": 7.98333333
+  },
+  {
+    "alias": "sumaila",
+    "name": "Sumaila",
+    "state_code": "KN",
+    "latitude": 11.53333333,
+    "longitude": 8.96666667
+  },
+  {
+    "alias": "takai",
+    "name": "Takai",
+    "state_code": "KN",
+    "latitude": 11.4853125,
+    "longitude": 9.156044842198048
+  },
+  {
+    "alias": "tarauni",
+    "name": "Tarauni",
+    "state_code": "KN",
+    "latitude": 11.96666667,
+    "longitude": 8.56666667
+  },
+  {
+    "alias": "tofa",
+    "name": "Tofa",
+    "state_code": "KN",
+    "latitude": 12.05,
+    "longitude": 8.26666667
+  },
+  {
+    "alias": "tsanyawa",
+    "name": "Tsanyawa",
+    "state_code": "KN",
+    "latitude": 12.3,
+    "longitude": 7.98333333
+  },
+  {
+    "alias": "tudun-wada",
+    "name": "Tudun Wada",
+    "state_code": "KN",
+    "latitude": 11.25,
+    "longitude": 8.4
+  },
+  {
+    "alias": "ungogo",
+    "name": "Ungogo",
+    "state_code": "KN",
+    "latitude": 12.09055556,
+    "longitude": 8.49666667
+  },
+  {
+    "alias": "warawa",
+    "name": "Warawa",
+    "state_code": "KN",
+    "latitude": 11.88333333,
+    "longitude": 8.68333333
+  },
+  {
+    "alias": "wudil",
+    "name": "Wudil",
+    "state_code": "KN",
+    "latitude": 11.81666667,
+    "longitude": 8.85
+  },
+  {
+    "alias": "kumbotso",
+    "name": "kumbotso",
+    "state_code": "KN",
+    "latitude": 11.88805556,
+    "longitude": 8.50277778
+  },
+  {
+    "alias": "adavi",
+    "name": "Adavi",
+    "state_code": "KO",
+    "latitude": 7.66666667,
+    "longitude": 6.45
+  },
+  {
+    "alias": "ajaokuta",
+    "name": "Ajaokuta",
+    "state_code": "KO",
+    "latitude": 7.55611111,
+    "longitude": 6.655
+  },
+  {
+    "alias": "ankpa",
+    "name": "Ankpa",
+    "state_code": "KO",
+    "latitude": 7.43333333,
+    "longitude": 7.63333333
+  },
+  {
+    "alias": "bassa",
+    "name": "Bassa",
+    "state_code": "KO",
+    "latitude": 7.9,
+    "longitude": 7.05
+  },
+  {
+    "alias": "dekina",
+    "name": "Dekina",
+    "state_code": "KO",
+    "latitude": 7.58333333,
+    "longitude": 7.2
+  },
+  {
+    "alias": "ibaji",
+    "name": "Ibaji",
+    "state_code": "KO",
+    "latitude": 6.86666667,
+    "longitude": 6.8
+  },
+  {
+    "alias": "idah",
+    "name": "Idah",
+    "state_code": "KO",
+    "latitude": 7.08333333,
+    "longitude": 6.75
+  },
+  {
+    "alias": "igalamela-odolu",
+    "name": "Igalamela Odolu",
+    "state_code": "KO",
+    "latitude": 7.08333333,
+    "longitude": 7.08333333
+  },
+  {
+    "alias": "ijumu",
+    "name": "Ijumu",
+    "state_code": "KO",
+    "latitude": 7.85,
+    "longitude": 5.96666667
+  },
+  {
+    "alias": "kabba/bunu",
+    "name": "Kabba/Bunu",
+    "state_code": "KO",
+    "latitude": 8.11666667,
+    "longitude": 6.15
+  },
+  {
+    "alias": "kogi",
+    "name": "Kogi",
+    "state_code": "KO",
+    "latitude": 7.5,
+    "longitude": 6.7
+  },
+  {
+    "alias": "lokoja",
+    "name": "Lokoja",
+    "state_code": "KO",
+    "latitude": 7.80194444,
+    "longitude": 6.74416667
+  },
+  {
+    "alias": "mopa-muro",
+    "name": "Mopa-Muro",
+    "state_code": "KO",
+    "latitude": 8.09722222,
+    "longitude": 5.89583333
+  },
+  {
+    "alias": "ofu",
+    "name": "Ofu",
+    "state_code": "KO",
+    "latitude": 7.33333333,
+    "longitude": 7.08333333
+  },
+  {
+    "alias": "ogori/magongo",
+    "name": "Ogori/Magongo",
+    "state_code": "KO",
+    "latitude": 7.483333,
+    "longitude": 6.216667
+  },
+  {
+    "alias": "okehi",
+    "name": "Okehi",
+    "state_code": "KO",
+    "latitude": 7.7,
+    "longitude": 6.3
+  },
+  {
+    "alias": "okene",
+    "name": "Okene",
+    "state_code": "KO",
+    "latitude": 7.55,
+    "longitude": 6.23333333
+  },
+  {
+    "alias": "olamaboro",
+    "name": "Olamaboro",
+    "state_code": "KO",
+    "latitude": 7.18333,
+    "longitude": 7.56667
+  },
+  {
+    "alias": "omala",
+    "name": "Omala",
+    "state_code": "KO",
+    "latitude": 7.81666667,
+    "longitude": 7.51666667
+  },
+  {
+    "alias": "yagba-east",
+    "name": "Yagba East",
+    "state_code": "KO",
+    "latitude": 8.16666667,
+    "longitude": 5.7
+  },
+  {
+    "alias": "yagba-west",
+    "name": "Yagba West",
+    "state_code": "KO",
+    "latitude": 8.25,
+    "longitude": 5.55
+  },
+  {
+    "alias": "bakori",
+    "name": "Bakori",
+    "state_code": "KT",
+    "latitude": 11.55,
+    "longitude": 7.43333333
+  },
+  {
+    "alias": "batagarawa",
+    "name": "Batagarawa",
+    "state_code": "KT",
+    "latitude": 12.9,
+    "longitude": 7.61666667
+  },
+  {
+    "alias": "batsari",
+    "name": "Batsari",
+    "state_code": "KT",
+    "latitude": 12.75277778,
+    "longitude": 7.24194444
+  },
+  {
+    "alias": "baure",
+    "name": "Baure",
+    "state_code": "KT",
+    "latitude": 12.78333333,
+    "longitude": 8.76666667
+  },
+  {
+    "alias": "bindawa",
+    "name": "Bindawa",
+    "state_code": "KT",
+    "latitude": 12.71666667,
+    "longitude": 7.83333333
+  },
+  {
+    "alias": "charanchi",
+    "name": "Charanchi",
+    "state_code": "KT",
+    "latitude": 12.675,
+    "longitude": 7.7275
+  },
+  {
+    "alias": "dan-musa",
+    "name": "Dan Musa",
+    "state_code": "KT",
+    "latitude": 12.26388889,
+    "longitude": 7.33388889
+  },
+  {
+    "alias": "dandume",
+    "name": "DanDume",
+    "state_code": "KT",
+    "latitude": 11.41666667,
+    "longitude": 7.2
+  },
+  {
+    "alias": "danja",
+    "name": "Danja",
+    "state_code": "KT",
+    "latitude": 11.38333333,
+    "longitude": 7.56666667
+  },
+  {
+    "alias": "daura",
+    "name": "Daura",
+    "state_code": "KT",
+    "latitude": 13.03638889,
+    "longitude": 8.31777778
+  },
+  {
+    "alias": "dutsi",
+    "name": "Dutsi",
+    "state_code": "KT",
+    "latitude": 12.82527778,
+    "longitude": 8.14277778
+  },
+  {
+    "alias": "dutsin-ma",
+    "name": "Dutsin-Ma",
+    "state_code": "KT",
+    "latitude": 12.455,
+    "longitude": 7.49138889
+  },
+  {
+    "alias": "faskari",
+    "name": "Faskari",
+    "state_code": "KT",
+    "latitude": 11.71666667,
+    "longitude": 7.03333333
+  },
+  {
+    "alias": "funtua",
+    "name": "Funtua",
+    "state_code": "KT",
+    "latitude": 11.53333333,
+    "longitude": 7.31666667
+  },
+  {
+    "alias": "ingawa",
+    "name": "Ingawa",
+    "state_code": "KT",
+    "latitude": 12.63972222,
+    "longitude": 8.05027778
+  },
+  {
+    "alias": "jibia",
+    "name": "Jibia",
+    "state_code": "KT",
+    "latitude": 13.09166667,
+    "longitude": 7.22638889
+  },
+  {
+    "alias": "kafur",
+    "name": "Kafur",
+    "state_code": "KT",
+    "latitude": 11.65,
+    "longitude": 7.7
+  },
+  {
+    "alias": "kaita",
+    "name": "Kaita",
+    "state_code": "KT",
+    "latitude": 13.08055556,
+    "longitude": 7.75388889
+  },
+  {
+    "alias": "kankara",
+    "name": "Kankara",
+    "state_code": "KT",
+    "latitude": 11.930319,
+    "longitude": 7.412649
+  },
+  {
+    "alias": "kankia",
+    "name": "Kankia",
+    "state_code": "KT",
+    "latitude": 12.46666667,
+    "longitude": 7.8
+  },
+  {
+    "alias": "katsina",
+    "name": "Katsina",
+    "state_code": "KT",
+    "latitude": 12.98888889,
+    "longitude": 7.60083333
+  },
+  {
+    "alias": "kurfi",
+    "name": "Kurfi",
+    "state_code": "KT",
+    "latitude": 12.66611111,
+    "longitude": 7.48305556
+  },
+  {
+    "alias": "kusada",
+    "name": "Kusada",
+    "state_code": "KT",
+    "latitude": 12.46666667,
+    "longitude": 7.98333333
+  },
+  {
+    "alias": "mai'adua",
+    "name": "Mai'Adua",
+    "state_code": "KT",
+    "latitude": 13.19055556,
+    "longitude": 8.21166667
+  },
+  {
+    "alias": "malumfashi",
+    "name": "Malumfashi",
+    "state_code": "KT",
+    "latitude": 11.8,
+    "longitude": 7.61666667
+  },
+  {
+    "alias": "mani",
+    "name": "Mani",
+    "state_code": "KT",
+    "latitude": 12.85611111,
+    "longitude": 7.87444444
+  },
+  {
+    "alias": "mashi",
+    "name": "Mashi",
+    "state_code": "KT",
+    "latitude": 13.1,
+    "longitude": 8
+  },
+  {
+    "alias": "matazu",
+    "name": "Matazu",
+    "state_code": "KT",
+    "latitude": 12.2333,
+    "longitude": 7.66667
+  },
+  {
+    "alias": "musawa",
+    "name": "Musawa",
+    "state_code": "KT",
+    "latitude": 12.12944444,
+    "longitude": 7.66888889
+  },
+  {
+    "alias": "rimi",
+    "name": "Rimi",
+    "state_code": "KT",
+    "latitude": 12.85,
+    "longitude": 7.71555556
+  },
+  {
+    "alias": "sabuwa",
+    "name": "Sabuwa",
+    "state_code": "KT",
+    "latitude": 11.3,
+    "longitude": 7.11666667
+  },
+  {
+    "alias": "safana",
+    "name": "Safana",
+    "state_code": "KT",
+    "latitude": 12.5,
+    "longitude": 7.23333333
+  },
+  {
+    "alias": "sandamu",
+    "name": "Sandamu",
+    "state_code": "KT",
+    "latitude": 12.93333333,
+    "longitude": 8.36666667
+  },
+  {
+    "alias": "zango",
+    "name": "Zango",
+    "state_code": "KT",
+    "latitude": 12.93333333,
+    "longitude": 8.53333333
+  },
+  {
+    "alias": "asa",
+    "name": "Asa",
+    "state_code": "KW",
+    "latitude": 8.324804,
+    "longitude": 4.533673
+  },
+  {
+    "alias": "baruten",
+    "name": "Baruten",
+    "state_code": "KW",
+    "latitude": 9.58333333,
+    "longitude": 3.25
+  },
+  {
+    "alias": "edu",
+    "name": "Edu",
+    "state_code": "KW",
+    "latitude": 8.841903,
+    "longitude": 5.399178
+  },
+  {
+    "alias": "ekiti",
+    "name": "Ekiti",
+    "state_code": "KW",
+    "latitude": 8.139435,
+    "longitude": 5.32809
+  },
+  {
+    "alias": "ifelodun",
+    "name": "Ifelodun",
+    "state_code": "KW",
+    "latitude": 8.820023,
+    "longitude": 4.967322
+  },
+  {
+    "alias": "ilorin-east",
+    "name": "Ilorin East",
+    "state_code": "KW",
+    "latitude": 8.573234,
+    "longitude": 4.703608
+  },
+  {
+    "alias": "ilorin-south",
+    "name": "Ilorin South",
+    "state_code": "KW",
+    "latitude": 8.498688,
+    "longitude": 4.562779
+  },
+  {
+    "alias": "ilorin-west",
+    "name": "Ilorin West",
+    "state_code": "KW",
+    "latitude": 8.480048,
+    "longitude": 4.614006
+  },
+  {
+    "alias": "irepodun",
+    "name": "Irepodun",
+    "state_code": "KW",
+    "latitude": 8.487457,
+    "longitude": 4.527301
+  },
+  {
+    "alias": "isin",
+    "name": "Isin",
+    "state_code": "KW",
+    "latitude": 8.2579064,
+    "longitude": 5.038849070678933
+  },
+  {
+    "alias": "kaiama",
+    "name": "Kaiama",
+    "state_code": "KW",
+    "latitude": 9.605193,
+    "longitude": 3.941946
+  },
+  {
+    "alias": "moro",
+    "name": "Moro",
+    "state_code": "KW",
+    "latitude": 8.845,
+    "longitude": 4.556667
+  },
+  {
+    "alias": "offa",
+    "name": "Offa",
+    "state_code": "KW",
+    "latitude": 8.147,
+    "longitude": 4.72
+  },
+  {
+    "alias": "oke-ero",
+    "name": "Oke-Ero",
+    "state_code": "KW",
+    "latitude": 8.088888,
+    "longitude": 5.144659
+  },
+  {
+    "alias": "oyun",
+    "name": "Oyun",
+    "state_code": "KW",
+    "latitude": 8.16827,
+    "longitude": 4.65212
+  },
+  {
+    "alias": "pategi",
+    "name": "Pategi",
+    "state_code": "KW",
+    "latitude": 8.73333333,
+    "longitude": 5.75
+  },
+  {
+    "alias": "agege",
+    "name": "Agege",
+    "state_code": "LA",
+    "latitude": 6.62194444,
+    "longitude": 3.32583333
+  },
+  {
+    "alias": "ajeromi-ifelodun",
+    "name": "Ajeromi-Ifelodun",
+    "state_code": "LA",
+    "latitude": 6.4448,
+    "longitude": 3.3339
+  },
+  {
+    "alias": "alimosho",
+    "name": "Alimosho",
+    "state_code": "LA",
+    "latitude": 6.61055556,
+    "longitude": 3.29583333
+  },
+  {
+    "alias": "amuwo-odofin",
+    "name": "Amuwo-Odofin",
+    "state_code": "LA",
+    "latitude": 6.45,
+    "longitude": 3.266667
+  },
+  {
+    "alias": "apapa",
+    "name": "Apapa",
+    "state_code": "LA",
+    "latitude": 6.45,
+    "longitude": 3.36666667
+  },
+  {
+    "alias": "badagry",
+    "name": "Badagry",
+    "state_code": "LA",
+    "latitude": 6.41666667,
+    "longitude": 2.88333333
+  },
+  {
+    "alias": "epe",
+    "name": "Epe",
+    "state_code": "LA",
+    "latitude": 6.58333333,
+    "longitude": 3.98333333
+  },
+  {
+    "alias": "eti-osa",
+    "name": "Eti-Osa",
+    "state_code": "LA",
+    "latitude": 6.437443,
+    "longitude": 3.564588
+  },
+  {
+    "alias": "ibeju-lekki",
+    "name": "Ibeju-Lekki",
+    "state_code": "LA",
+    "latitude": 6.416667,
+    "longitude": 2.883333
+  },
+  {
+    "alias": "ifako-ijaiye",
+    "name": "Ifako-Ijaiye",
+    "state_code": "LA",
+    "latitude": 6.68472222,
+    "longitude": 3.28888889
+  },
+  {
+    "alias": "ikeja",
+    "name": "Ikeja",
+    "state_code": "LA",
+    "latitude": 6.6,
+    "longitude": 3.35
+  },
+  {
+    "alias": "ikorodu",
+    "name": "Ikorodu",
+    "state_code": "LA",
+    "latitude": 6.6,
+    "longitude": 3.5
+  },
+  {
+    "alias": "kosofe",
+    "name": "Kosofe",
+    "state_code": "LA",
+    "latitude": 6.556879,
+    "longitude": 3.384174
+  },
+  {
+    "alias": "lagos-island",
+    "name": "Lagos Island",
+    "state_code": "LA",
+    "latitude": 6.45,
+    "longitude": 3.4
+  },
+  {
+    "alias": "lagos-mainland",
+    "name": "Lagos Mainland",
+    "state_code": "LA",
+    "latitude": 6.504937,
+    "longitude": 3.386503
+  },
+  {
+    "alias": "mushin",
+    "name": "Mushin",
+    "state_code": "LA",
+    "latitude": 6.53333333,
+    "longitude": 3.35
+  },
+  {
+    "alias": "ojo",
+    "name": "Ojo",
+    "state_code": "LA",
+    "latitude": 6.46666667,
+    "longitude": 3.18333333
+  },
+  {
+    "alias": "oshodi-isolo",
+    "name": "Oshodi-Isolo",
+    "state_code": "LA",
+    "latitude": 6.511865,
+    "longitude": 3.308021
+  },
+  {
+    "alias": "somolu",
+    "name": "Somolu",
+    "state_code": "LA",
+    "latitude": 6.540833,
+    "longitude": 3.387222
+  },
+  {
+    "alias": "surulere",
+    "name": "Surulere",
+    "state_code": "LA",
+    "latitude": 6.5,
+    "longitude": 3.35
+  },
+  {
+    "alias": "akwanga",
+    "name": "Akwanga",
+    "state_code": "NA",
+    "latitude": 8.91666667,
+    "longitude": 8.38333333
+  },
+  {
+    "alias": "awe",
+    "name": "Awe",
+    "state_code": "NA",
+    "latitude": 7.823611,
+    "longitude": 3.95
+  },
+  {
+    "alias": "doma",
+    "name": "Doma",
+    "state_code": "NA",
+    "latitude": 8.396241,
+    "longitude": 8.35864
+  },
+  {
+    "alias": "karu",
+    "name": "Karu",
+    "state_code": "NA",
+    "latitude": 9.019231,
+    "longitude": 7.613516
+  },
+  {
+    "alias": "keana",
+    "name": "Keana",
+    "state_code": "NA",
+    "latitude": 8.147346,
+    "longitude": 8.800478
+  },
+  {
+    "alias": "keffi",
+    "name": "Keffi",
+    "state_code": "NA",
+    "latitude": 8.8464,
+    "longitude": 7.8733
+  },
+  {
+    "alias": "kokona",
+    "name": "Kokona",
+    "state_code": "NA",
+    "latitude": 8.85,
+    "longitude": 5.08333333
+  },
+  {
+    "alias": "lafia",
+    "name": "Lafia",
+    "state_code": "NA",
+    "latitude": 8.49166667,
+    "longitude": 8.51666667
+  },
+  {
+    "alias": "nasarawa",
+    "name": "Nasarawa",
+    "state_code": "NA",
+    "latitude": 8.53333333,
+    "longitude": 8.3
+  },
+  {
+    "alias": "nasarawa-egon",
+    "name": "Nasarawa Egon",
+    "state_code": "NA",
+    "latitude": 8.741115,
+    "longitude": 8.542192
+  },
+  {
+    "alias": "obi",
+    "name": "Obi",
+    "state_code": "NA",
+    "latitude": 7,
+    "longitude": 8.25
+  },
+  {
+    "alias": "toto",
+    "name": "Toto",
+    "state_code": "NA",
+    "latitude": 8.388021,
+    "longitude": 7.078199
+  },
+  {
+    "alias": "wamba",
+    "name": "Wamba",
+    "state_code": "NA",
+    "latitude": 8.93333333,
+    "longitude": 8.6
+  },
+  {
+    "alias": "agaie",
+    "name": "Agaie",
+    "state_code": "NI",
+    "latitude": 9.01666667,
+    "longitude": 6.31666667
+  },
+  {
+    "alias": "agwara",
+    "name": "Agwara",
+    "state_code": "NI",
+    "latitude": 10.7,
+    "longitude": 4.58333333
+  },
+  {
+    "alias": "bida",
+    "name": "Bida",
+    "state_code": "NI",
+    "latitude": 9.08333333,
+    "longitude": 6.01666667
+  },
+  {
+    "alias": "borgu",
+    "name": "Borgu",
+    "state_code": "NI",
+    "latitude": 11,
+    "longitude": 3.5
+  },
+  {
+    "alias": "bosso",
+    "name": "Bosso",
+    "state_code": "NI",
+    "latitude": 9.651457,
+    "longitude": 6.526626
+  },
+  {
+    "alias": "chanchaga",
+    "name": "Chanchaga",
+    "state_code": "NI",
+    "latitude": 9.61388889,
+    "longitude": 6.55694444
+  },
+  {
+    "alias": "edati",
+    "name": "Edati",
+    "state_code": "NI",
+    "latitude": 9.05,
+    "longitude": 5.65
+  },
+  {
+    "alias": "gbako",
+    "name": "Gbako",
+    "state_code": "NI",
+    "latitude": 9.26666667,
+    "longitude": 5.98333333
+  },
+  {
+    "alias": "gurara",
+    "name": "Gurara",
+    "state_code": "NI",
+    "latitude": 9.35,
+    "longitude": 7.08333333
+  },
+  {
+    "alias": "katcha",
+    "name": "Katcha",
+    "state_code": "NI",
+    "latitude": 9.15,
+    "longitude": 6.23333333
+  },
+  {
+    "alias": "kontagora",
+    "name": "Kontagora",
+    "state_code": "NI",
+    "latitude": 10.403,
+    "longitude": 5.473
+  },
+  {
+    "alias": "lapai",
+    "name": "Lapai",
+    "state_code": "NI",
+    "latitude": 8.81666667,
+    "longitude": 6.68333333
+  },
+  {
+    "alias": "lavun",
+    "name": "Lavun",
+    "state_code": "NI",
+    "latitude": 9.45,
+    "longitude": 5.63333333
+  },
+  {
+    "alias": "magama",
+    "name": "Magama",
+    "state_code": "NI",
+    "latitude": 10.46666667,
+    "longitude": 5.05
+  },
+  {
+    "alias": "mariga",
+    "name": "Mariga",
+    "state_code": "NI",
+    "latitude": 10.7,
+    "longitude": 5.83333333
+  },
+  {
+    "alias": "mashegu",
+    "name": "Mashegu",
+    "state_code": "NI",
+    "latitude": 9.95,
+    "longitude": 5.21666667
+  },
+  {
+    "alias": "mokwa",
+    "name": "Mokwa",
+    "state_code": "NI",
+    "latitude": 9.2,
+    "longitude": 5.33333333
+  },
+  {
+    "alias": "munya",
+    "name": "Munya",
+    "state_code": "NI",
+    "latitude": 9.78333,
+    "longitude": 7.03333
+  },
+  {
+    "alias": "paikoro",
+    "name": "Paikoro",
+    "state_code": "NI",
+    "latitude": 9.43333,
+    "longitude": 6.63333
+  },
+  {
+    "alias": "rafi",
+    "name": "Rafi",
+    "state_code": "NI",
+    "latitude": 10.18444444,
+    "longitude": 6.25333333
+  },
+  {
+    "alias": "rijau",
+    "name": "Rijau",
+    "state_code": "NI",
+    "latitude": 11.1,
+    "longitude": 5.26666667
+  },
+  {
+    "alias": "shiroro",
+    "name": "Shiroro",
+    "state_code": "NI",
+    "latitude": 9.95694444,
+    "longitude": 6.83194444
+  },
+  {
+    "alias": "suleja",
+    "name": "Suleja",
+    "state_code": "NI",
+    "latitude": 9.18333333,
+    "longitude": 7.18333333
+  },
+  {
+    "alias": "tafa",
+    "name": "Tafa",
+    "state_code": "NI",
+    "latitude": 9.25,
+    "longitude": 7.25
+  },
+  {
+    "alias": "wushishi",
+    "name": "Wushishi",
+    "state_code": "NI",
+    "latitude": 9.721763,
+    "longitude": 6.111317
+  },
+  {
+    "alias": "abeokuta-north",
+    "name": "Abeokuta North",
+    "state_code": "OG",
+    "latitude": 7.2,
+    "longitude": 3.2
+  },
+  {
+    "alias": "abeokuta-south",
+    "name": "Abeokuta South",
+    "state_code": "OG",
+    "latitude": 7.15,
+    "longitude": 3.35
+  },
+  {
+    "alias": "ado-odo/ota",
+    "name": "Ado-Odo/Ota",
+    "state_code": "OG",
+    "latitude": 6.63333333,
+    "longitude": 3.1
+  },
+  {
+    "alias": "ewekoro",
+    "name": "Ewekoro",
+    "state_code": "OG",
+    "latitude": 6.93333333,
+    "longitude": 3.21666667
+  },
+  {
+    "alias": "ifo",
+    "name": "Ifo",
+    "state_code": "OG",
+    "latitude": 6.81666667,
+    "longitude": 3.2
+  },
+  {
+    "alias": "ijebu-east",
+    "name": "Ijebu East",
+    "state_code": "OG",
+    "latitude": 6.73333333,
+    "longitude": 4.16666667
+  },
+  {
+    "alias": "ijebu-north",
+    "name": "Ijebu North",
+    "state_code": "OG",
+    "latitude": 6.95,
+    "longitude": 4
+  },
+  {
+    "alias": "ijebu-north-east",
+    "name": "Ijebu North East",
+    "state_code": "OG",
+    "latitude": 6.9,
+    "longitude": 4.01666667
+  },
+  {
+    "alias": "ijebu-ode",
+    "name": "Ijebu Ode",
+    "state_code": "OG",
+    "latitude": 6.82083333,
+    "longitude": 3.92083333
+  },
+  {
+    "alias": "ikenne",
+    "name": "Ikenne",
+    "state_code": "OG",
+    "latitude": 6.86666667,
+    "longitude": 3.71666667
+  },
+  {
+    "alias": "imeko-afon",
+    "name": "Imeko Afon",
+    "state_code": "OG",
+    "latitude": 7.63333333,
+    "longitude": 2.86666667
+  },
+  {
+    "alias": "ipokia",
+    "name": "Ipokia",
+    "state_code": "OG",
+    "latitude": 6.53333333,
+    "longitude": 2.85
+  },
+  {
+    "alias": "obafemi-owode",
+    "name": "Obafemi Owode",
+    "state_code": "OG",
+    "latitude": 6.95,
+    "longitude": 3.5
+  },
+  {
+    "alias": "odeda",
+    "name": "Odeda",
+    "state_code": "OG",
+    "latitude": 7.21666667,
+    "longitude": 3.51666667
+  },
+  {
+    "alias": "odogbolu",
+    "name": "Odogbolu",
+    "state_code": "OG",
+    "latitude": 6.76666667,
+    "longitude": 3.8
+  },
+  {
+    "alias": "ogun-waterside",
+    "name": "Ogun Waterside",
+    "state_code": "OG",
+    "latitude": 6.48333333,
+    "longitude": 4.4
+  },
+  {
+    "alias": "remo-north",
+    "name": "Remo North",
+    "state_code": "OG",
+    "latitude": 7,
+    "longitude": 3.71666667
+  },
+  {
+    "alias": "shagamu",
+    "name": "Shagamu",
+    "state_code": "OG",
+    "latitude": 6.83333333,
+    "longitude": 3.65
+  },
+  {
+    "alias": "yewa-north",
+    "name": "Yewa North",
+    "state_code": "OG",
+    "latitude": 7.15,
+    "longitude": 2.91666667
+  },
+  {
+    "alias": "yewa-south",
+    "name": "Yewa South",
+    "state_code": "OG",
+    "latitude": 6.8,
+    "longitude": 2.95
+  },
+  {
+    "alias": "akoko-north-east",
+    "name": "Akoko North East",
+    "state_code": "ON",
+    "latitude": 7.516667,
+    "longitude": 5.75
+  },
+  {
+    "alias": "akoko-north-west",
+    "name": "Akoko North West",
+    "state_code": "ON",
+    "latitude": 7.643346,
+    "longitude": 5.76057
+  },
+  {
+    "alias": "akoko-south-east",
+    "name": "Akoko South East",
+    "state_code": "ON",
+    "latitude": 7.451155,
+    "longitude": 5.910301
+  },
+  {
+    "alias": "akoko-south-west",
+    "name": "Akoko South West",
+    "state_code": "ON",
+    "latitude": 7.45439,
+    "longitude": 5.801639
+  },
+  {
+    "alias": "akure-north",
+    "name": "Akure North",
+    "state_code": "ON",
+    "latitude": 7.26277778,
+    "longitude": 5.31583333
+  },
+  {
+    "alias": "akure-south",
+    "name": "Akure South",
+    "state_code": "ON",
+    "latitude": 7.2075,
+    "longitude": 5.18833333
+  },
+  {
+    "alias": "ese-odo",
+    "name": "Ese Odo",
+    "state_code": "ON",
+    "latitude": 6.25754,
+    "longitude": 5.000496
+  },
+  {
+    "alias": "idanre",
+    "name": "Idanre",
+    "state_code": "ON",
+    "latitude": 7.09222222,
+    "longitude": 5.13222222
+  },
+  {
+    "alias": "ifedore",
+    "name": "Ifedore",
+    "state_code": "ON",
+    "latitude": 7.343085,
+    "longitude": 5.108323
+  },
+  {
+    "alias": "ilaje",
+    "name": "Ilaje",
+    "state_code": "ON",
+    "latitude": 6.369232,
+    "longitude": 4.784181
+  },
+  {
+    "alias": "ile-oluji/okeigbo",
+    "name": "Ile Oluji/Okeigbo",
+    "state_code": "ON",
+    "latitude": 7.166442,
+    "longitude": 4.724235
+  },
+  {
+    "alias": "irele",
+    "name": "Irele",
+    "state_code": "ON",
+    "latitude": 6.48333333,
+    "longitude": 4.86666667
+  },
+  {
+    "alias": "odigbo",
+    "name": "Odigbo",
+    "state_code": "ON",
+    "latitude": 6.793915,
+    "longitude": 4.867455
+  },
+  {
+    "alias": "okitipupa",
+    "name": "Okitipupa",
+    "state_code": "ON",
+    "latitude": 6.55,
+    "longitude": 4.71666667
+  },
+  {
+    "alias": "ondo-east",
+    "name": "Ondo East",
+    "state_code": "ON",
+    "latitude": 7.065508,
+    "longitude": 4.931343
+  },
+  {
+    "alias": "ondo-west",
+    "name": "Ondo West",
+    "state_code": "ON",
+    "latitude": 7.09727,
+    "longitude": 4.84115
+  },
+  {
+    "alias": "ose",
+    "name": "Ose",
+    "state_code": "ON",
+    "latitude": 6.922762,
+    "longitude": 5.777478
+  },
+  {
+    "alias": "owo",
+    "name": "Owo",
+    "state_code": "ON",
+    "latitude": 7.18333333,
+    "longitude": 5.58333333
+  },
+  {
+    "alias": "aiyedire",
+    "name": "Aiyedire",
+    "state_code": "OS",
+    "latitude": 7.56666667,
+    "longitude": 4.23333333
+  },
+  {
+    "alias": "atakunmosa-east",
+    "name": "Atakunmosa East",
+    "state_code": "OS",
+    "latitude": 7.48333,
+    "longitude": 4.78333
+  },
+  {
+    "alias": "atakunmosa-west",
+    "name": "Atakunmosa West",
+    "state_code": "OS",
+    "latitude": 7.55,
+    "longitude": 4.66667
+  },
+  {
+    "alias": "ayedaade",
+    "name": "Ayedaade",
+    "state_code": "OS",
+    "latitude": 7.31666667,
+    "longitude": 4.35
+  },
+  {
+    "alias": "boluwaduro",
+    "name": "Boluwaduro",
+    "state_code": "OS",
+    "latitude": 7.9,
+    "longitude": 4.81666667
+  },
+  {
+    "alias": "boripe",
+    "name": "Boripe",
+    "state_code": "OS",
+    "latitude": 7.86666667,
+    "longitude": 4.65833333
+  },
+  {
+    "alias": "ede-north",
+    "name": "Ede North",
+    "state_code": "OS",
+    "latitude": 7.73333333,
+    "longitude": 4.48333333
+  },
+  {
+    "alias": "ede-south",
+    "name": "Ede South",
+    "state_code": "OS",
+    "latitude": 7.7,
+    "longitude": 4.45
+  },
+  {
+    "alias": "egbedore",
+    "name": "Egbedore",
+    "state_code": "OS",
+    "latitude": 7.81666667,
+    "longitude": 4.43333333
+  },
+  {
+    "alias": "ejigbo",
+    "name": "Ejigbo",
+    "state_code": "OS",
+    "latitude": 7.9,
+    "longitude": 4.315
+  },
+  {
+    "alias": "ife-central",
+    "name": "Ife Central",
+    "state_code": "OS",
+    "latitude": 7.55,
+    "longitude": 4.53333333
+  },
+  {
+    "alias": "ife-east",
+    "name": "Ife East",
+    "state_code": "OS",
+    "latitude": 7.45,
+    "longitude": 4.6
+  },
+  {
+    "alias": "ife-north",
+    "name": "Ife North",
+    "state_code": "OS",
+    "latitude": 7.36666667,
+    "longitude": 4.46666667
+  },
+  {
+    "alias": "ife-south",
+    "name": "Ife South",
+    "state_code": "OS",
+    "latitude": 7.2,
+    "longitude": 4.6
+  },
+  {
+    "alias": "ifedayo",
+    "name": "Ifedayo",
+    "state_code": "OS",
+    "latitude": 7.95,
+    "longitude": 4.98333333
+  },
+  {
+    "alias": "ifelodun",
+    "name": "Ifelodun",
+    "state_code": "OS",
+    "latitude": 7.91667,
+    "longitude": 4.66667
+  },
+  {
+    "alias": "ila",
+    "name": "Ila",
+    "state_code": "OS",
+    "latitude": 8.01666667,
+    "longitude": 4.9
+  },
+  {
+    "alias": "ilesa-east",
+    "name": "Ilesa East",
+    "state_code": "OS",
+    "latitude": 7.61666667,
+    "longitude": 4.76666667
+  },
+  {
+    "alias": "ilesa-west",
+    "name": "Ilesa West",
+    "state_code": "OS",
+    "latitude": 7.65,
+    "longitude": 4.71666667
+  },
+  {
+    "alias": "irepodun",
+    "name": "Irepodun",
+    "state_code": "OS",
+    "latitude": 7.83333,
+    "longitude": 4.48333
+  },
+  {
+    "alias": "irewole",
+    "name": "Irewole",
+    "state_code": "OS",
+    "latitude": 7.41666667,
+    "longitude": 4.21666667
+  },
+  {
+    "alias": "isokan",
+    "name": "Isokan",
+    "state_code": "OS",
+    "latitude": 7.3,
+    "longitude": 4.18333333
+  },
+  {
+    "alias": "iwo",
+    "name": "Iwo",
+    "state_code": "OS",
+    "latitude": 7.63333333,
+    "longitude": 4.18333333
+  },
+  {
+    "alias": "obokun",
+    "name": "Obokun",
+    "state_code": "OS",
+    "latitude": 7.78333333,
+    "longitude": 4.76666667
+  },
+  {
+    "alias": "odo-otin",
+    "name": "Odo-Otin",
+    "state_code": "OS",
+    "latitude": 8.01666667,
+    "longitude": 4.7
+  },
+  {
+    "alias": "ola-oluwa",
+    "name": "Ola-Oluwa",
+    "state_code": "OS",
+    "latitude": 7.78333333,
+    "longitude": 4.21666667
+  },
+  {
+    "alias": "olorunda",
+    "name": "Olorunda",
+    "state_code": "OS",
+    "latitude": 7.86666667,
+    "longitude": 4.58333333
+  },
+  {
+    "alias": "oriade",
+    "name": "Oriade",
+    "state_code": "OS",
+    "latitude": 7.58333333,
+    "longitude": 4.86666667
+  },
+  {
+    "alias": "orolu",
+    "name": "Orolu",
+    "state_code": "OS",
+    "latitude": 7.9,
+    "longitude": 4.45
+  },
+  {
+    "alias": "osogbo",
+    "name": "Osogbo",
+    "state_code": "OS",
+    "latitude": 7.76666667,
+    "longitude": 4.56666667
+  },
+  {
+    "alias": "afijio",
+    "name": "Afijio",
+    "state_code": "OY",
+    "latitude": 7.8,
+    "longitude": 3.9
+  },
+  {
+    "alias": "akinyele",
+    "name": "Akinyele",
+    "state_code": "OY",
+    "latitude": 7.523735,
+    "longitude": 3.914781
+  },
+  {
+    "alias": "atiba",
+    "name": "Atiba",
+    "state_code": "OY",
+    "latitude": 7.849454,
+    "longitude": 3.930354
+  },
+  {
+    "alias": "atisbo",
+    "name": "Atisbo",
+    "state_code": "OY",
+    "latitude": 8.549788,
+    "longitude": 3.45
+  },
+  {
+    "alias": "egbeda",
+    "name": "Egbeda",
+    "state_code": "OY",
+    "latitude": 7.381337,
+    "longitude": 3.966501
+  },
+  {
+    "alias": "ibadan-north",
+    "name": "Ibadan North",
+    "state_code": "OY",
+    "latitude": 7.403239,
+    "longitude": 3.913107
+  },
+  {
+    "alias": "ibadan-north-east",
+    "name": "Ibadan North East",
+    "state_code": "OY",
+    "latitude": 7.401536,
+    "longitude": 3.938985
+  },
+  {
+    "alias": "ibadan-north-west",
+    "name": "Ibadan North West",
+    "state_code": "OY",
+    "latitude": 7.395799,
+    "longitude": 3.881569
+  },
+  {
+    "alias": "ibadan-south-east",
+    "name": "Ibadan South East",
+    "state_code": "OY",
+    "latitude": 7.37577,
+    "longitude": 3.897557
+  },
+  {
+    "alias": "ibadan-south-west",
+    "name": "Ibadan South West",
+    "state_code": "OY",
+    "latitude": 7.396389,
+    "longitude": 3.916667
+  },
+  {
+    "alias": "ibarapa-central",
+    "name": "Ibarapa Central",
+    "state_code": "OY",
+    "latitude": 7.435346,
+    "longitude": 3.288581
+  },
+  {
+    "alias": "ibarapa-east",
+    "name": "Ibarapa East",
+    "state_code": "OY",
+    "latitude": 7.549722,
+    "longitude": 3.45
+  },
+  {
+    "alias": "ibarapa-north",
+    "name": "Ibarapa North",
+    "state_code": "OY",
+    "latitude": 7.564226,
+    "longitude": 3.229916
+  },
+  {
+    "alias": "ido",
+    "name": "Ido",
+    "state_code": "OY",
+    "latitude": 7.507354,
+    "longitude": 3.719376
+  },
+  {
+    "alias": "irepo",
+    "name": "Irepo",
+    "state_code": "OY",
+    "latitude": 7.350425,
+    "longitude": 3.880304
+  },
+  {
+    "alias": "iseyin",
+    "name": "Iseyin",
+    "state_code": "OY",
+    "latitude": 7.96666667,
+    "longitude": 3.6
+  },
+  {
+    "alias": "itesiwaju",
+    "name": "Itesiwaju",
+    "state_code": "OY",
+    "latitude": 7.358763,
+    "longitude": 3.959258
+  },
+  {
+    "alias": "iwajowa",
+    "name": "Iwajowa",
+    "state_code": "OY",
+    "latitude": 7.983269,
+    "longitude": 3.05274
+  },
+  {
+    "alias": "kajola",
+    "name": "Kajola",
+    "state_code": "OY",
+    "latitude": 8.037685,
+    "longitude": 3.348942
+  },
+  {
+    "alias": "lagelu",
+    "name": "Lagelu",
+    "state_code": "OY",
+    "latitude": 7.495026,
+    "longitude": 4.073009
+  },
+  {
+    "alias": "ogbomosho-north",
+    "name": "Ogbomosho North",
+    "state_code": "OY",
+    "latitude": 8.133333,
+    "longitude": 4.25
+  },
+  {
+    "alias": "ogbomosho-south",
+    "name": "Ogbomosho South",
+    "state_code": "OY",
+    "latitude": 8.11791,
+    "longitude": 4.239092
+  },
+  {
+    "alias": "ogo-oluwa",
+    "name": "Ogo Oluwa",
+    "state_code": "OY",
+    "latitude": 8.13524,
+    "longitude": 4.24006
+  },
+  {
+    "alias": "olorunsogo",
+    "name": "Olorunsogo",
+    "state_code": "OY",
+    "latitude": 8.752377,
+    "longitude": 4.130988
+  },
+  {
+    "alias": "oluyole",
+    "name": "Oluyole",
+    "state_code": "OY",
+    "latitude": 7.218,
+    "longitude": 3.892
+  },
+  {
+    "alias": "ona-ara",
+    "name": "Ona Ara",
+    "state_code": "OY",
+    "latitude": 7.225568,
+    "longitude": 4.026554
+  },
+  {
+    "alias": "oorelope",
+    "name": "Oorelope",
+    "state_code": "OY",
+    "latitude": 8.833333,
+    "longitude": 3.75
+  },
+  {
+    "alias": "ori-ire",
+    "name": "Ori Ire",
+    "state_code": "OY",
+    "latitude": 8.33423,
+    "longitude": 4.14423
+  },
+  {
+    "alias": "oyo-east",
+    "name": "Oyo East",
+    "state_code": "OY",
+    "latitude": 7.882092,
+    "longitude": 3.998755
+  },
+  {
+    "alias": "oyo-west",
+    "name": "Oyo West",
+    "state_code": "OY",
+    "latitude": 7.94157,
+    "longitude": 3.8218
+  },
+  {
+    "alias": "saki-east",
+    "name": "Saki East",
+    "state_code": "OY",
+    "latitude": 8.628418,
+    "longitude": 3.640723
+  },
+  {
+    "alias": "saki-west",
+    "name": "Saki West",
+    "state_code": "OY",
+    "latitude": 8.666667,
+    "longitude": 3.4
+  },
+  {
+    "alias": "surulere",
+    "name": "Surulere",
+    "state_code": "OY",
+    "latitude": 6.5,
+    "longitude": 3.35
+  },
+  {
+    "alias": "barkin-ladi",
+    "name": "Barkin Ladi",
+    "state_code": "PL",
+    "latitude": 9.56667,
+    "longitude": 8.91667
+  },
+  {
+    "alias": "bassa",
+    "name": "Bassa",
+    "state_code": "PL",
+    "latitude": 10.0833,
+    "longitude": 8.73333
+  },
+  {
+    "alias": "bokkos",
+    "name": "Bokkos",
+    "state_code": "PL",
+    "latitude": 9.25,
+    "longitude": 8.88333333
+  },
+  {
+    "alias": "jos-east",
+    "name": "Jos East",
+    "state_code": "PL",
+    "latitude": 9.91666667,
+    "longitude": 9.1
+  },
+  {
+    "alias": "jos-north",
+    "name": "Jos North",
+    "state_code": "PL",
+    "latitude": 9.91666667,
+    "longitude": 8.9
+  },
+  {
+    "alias": "jos-south",
+    "name": "Jos South",
+    "state_code": "PL",
+    "latitude": 9.76666667,
+    "longitude": 8.8
+  },
+  {
+    "alias": "kanam",
+    "name": "Kanam",
+    "state_code": "PL",
+    "latitude": 9.56601387018746,
+    "longitude": 9.991505892537331
+  },
+  {
+    "alias": "kanke",
+    "name": "Kanke",
+    "state_code": "PL",
+    "latitude": 9.367178899999999,
+    "longitude": 9.639354933485457
+  },
+  {
+    "alias": "langtang-north",
+    "name": "Langtang North",
+    "state_code": "PL",
+    "latitude": 9.13333333,
+    "longitude": 9.78333333
+  },
+  {
+    "alias": "langtang-south",
+    "name": "Langtang South",
+    "state_code": "PL",
+    "latitude": 8.63333333,
+    "longitude": 9.8
+  },
+  {
+    "alias": "mangu",
+    "name": "Mangu",
+    "state_code": "PL",
+    "latitude": 9.43333333,
+    "longitude": 9.13333333
+  },
+  {
+    "alias": "mikang",
+    "name": "Mikang",
+    "state_code": "PL",
+    "latitude": 9,
+    "longitude": 9.58333333
+  },
+  {
+    "alias": "pankshin",
+    "name": "Pankshin",
+    "state_code": "PL",
+    "latitude": 9.327248,
+    "longitude": 9.431291
+  },
+  {
+    "alias": "qua'an-pan",
+    "name": "Qua'an Pan",
+    "state_code": "PL",
+    "latitude": 8.8,
+    "longitude": 9.15
+  },
+  {
+    "alias": "riyom",
+    "name": "Riyom",
+    "state_code": "PL",
+    "latitude": 9.56666667,
+    "longitude": 8.66666667
+  },
+  {
+    "alias": "shendam",
+    "name": "Shendam",
+    "state_code": "PL",
+    "latitude": 8.71666667,
+    "longitude": 9.5
+  },
+  {
+    "alias": "wase",
+    "name": "Wase",
+    "state_code": "PL",
+    "latitude": 9.1,
+    "longitude": 9.96666667
+  },
+  {
+    "alias": "abua-odual",
+    "name": "Abua-Odual",
+    "state_code": "RI",
+    "latitude": 4.82972222,
+    "longitude": 6.5675
+  },
+  {
+    "alias": "ahoada-east",
+    "name": "Ahoada East",
+    "state_code": "RI",
+    "latitude": 5.06833333,
+    "longitude": 6.64666667
+  },
+  {
+    "alias": "ahoada-west",
+    "name": "Ahoada West",
+    "state_code": "RI",
+    "latitude": 5.08638889,
+    "longitude": 6.47527778
+  },
+  {
+    "alias": "akuku-toru",
+    "name": "Akuku-Toru",
+    "state_code": "RI",
+    "latitude": 4.56,
+    "longitude": 6.74972222
+  },
+  {
+    "alias": "andoni",
+    "name": "Andoni",
+    "state_code": "RI",
+    "latitude": 4.54916667,
+    "longitude": 7.44638889
+  },
+  {
+    "alias": "asari-toru",
+    "name": "Asari-Toru",
+    "state_code": "RI",
+    "latitude": 4.78333333,
+    "longitude": 6.85
+  },
+  {
+    "alias": "bonny",
+    "name": "Bonny",
+    "state_code": "RI",
+    "latitude": 4.43333333,
+    "longitude": 7.16666667
+  },
+  {
+    "alias": "degema",
+    "name": "Degema",
+    "state_code": "RI",
+    "latitude": 4.57416667,
+    "longitude": 6.93805556
+  },
+  {
+    "alias": "eleme",
+    "name": "Eleme",
+    "state_code": "RI",
+    "latitude": 4.7875,
+    "longitude": 7.14361111
+  },
+  {
+    "alias": "emohua",
+    "name": "Emohua",
+    "state_code": "RI",
+    "latitude": 4.88333333,
+    "longitude": 6.86666667
+  },
+  {
+    "alias": "etche",
+    "name": "Etche",
+    "state_code": "RI",
+    "latitude": 4.99,
+    "longitude": 7.05
+  },
+  {
+    "alias": "gokana",
+    "name": "Gokana",
+    "state_code": "RI",
+    "latitude": 4.65972222,
+    "longitude": 7.2825
+  },
+  {
+    "alias": "ikwerre",
+    "name": "Ikwerre",
+    "state_code": "RI",
+    "latitude": 5.055143,
+    "longitude": 6.922417
+  },
+  {
+    "alias": "khana",
+    "name": "Khana",
+    "state_code": "RI",
+    "latitude": 4.7,
+    "longitude": 7.35
+  },
+  {
+    "alias": "obio/akpor",
+    "name": "Obio/Akpor",
+    "state_code": "RI",
+    "latitude": 4.874902,
+    "longitude": 6.999767
+  },
+  {
+    "alias": "ogba/egbema/ndoni",
+    "name": "Ogba/Egbema/Ndoni",
+    "state_code": "RI",
+    "latitude": 5.34166944,
+    "longitude": 6.65556111
+  },
+  {
+    "alias": "ogu/bolo",
+    "name": "Ogu/Bolo",
+    "state_code": "RI",
+    "latitude": 4.65055556,
+    "longitude": 7.18305556
+  },
+  {
+    "alias": "okrika",
+    "name": "Okrika",
+    "state_code": "RI",
+    "latitude": 4.74,
+    "longitude": 7.083
+  },
+  {
+    "alias": "omuma",
+    "name": "Omuma",
+    "state_code": "RI",
+    "latitude": 4.969419,
+    "longitude": 7.020821
+  },
+  {
+    "alias": "opobo/nkoro",
+    "name": "Opobo/Nkoro",
+    "state_code": "RI",
+    "latitude": 4.56805556,
+    "longitude": 7.55277778
+  },
+  {
+    "alias": "oyigbo",
+    "name": "Oyigbo",
+    "state_code": "RI",
+    "latitude": 4.87806111,
+    "longitude": 7.12833056
+  },
+  {
+    "alias": "port-harcourt",
+    "name": "Port Harcourt",
+    "state_code": "RI",
+    "latitude": 4.82416667,
+    "longitude": 7.03361111
+  },
+  {
+    "alias": "tai",
+    "name": "Tai",
+    "state_code": "RI",
+    "latitude": 4.71666667,
+    "longitude": 7.3
+  },
+  {
+    "alias": "binji",
+    "name": "Binji",
+    "state_code": "SO",
+    "latitude": 13.21666667,
+    "longitude": 4.91666667
+  },
+  {
+    "alias": "bodinga",
+    "name": "Bodinga",
+    "state_code": "SO",
+    "latitude": 12.88333333,
+    "longitude": 5.16666667
+  },
+  {
+    "alias": "dange/shuni",
+    "name": "Dange/Shuni",
+    "state_code": "SO",
+    "latitude": 12.85,
+    "longitude": 5.35
+  },
+  {
+    "alias": "gada",
+    "name": "Gada",
+    "state_code": "SO",
+    "latitude": 13.76666667,
+    "longitude": 5.66666667
+  },
+  {
+    "alias": "goronyo",
+    "name": "Goronyo",
+    "state_code": "SO",
+    "latitude": 13.45305556,
+    "longitude": 5.67638889
+  },
+  {
+    "alias": "gudu",
+    "name": "Gudu",
+    "state_code": "SO",
+    "latitude": 13.46666667,
+    "longitude": 4.43333333
+  },
+  {
+    "alias": "gwadabawa",
+    "name": "Gwadabawa",
+    "state_code": "SO",
+    "latitude": 13.3697,
+    "longitude": 5.23
+  },
+  {
+    "alias": "illela",
+    "name": "Illela",
+    "state_code": "SO",
+    "latitude": 13.7325,
+    "longitude": 5.30027778
+  },
+  {
+    "alias": "isa",
+    "name": "Isa",
+    "state_code": "SO",
+    "latitude": 13.20027778,
+    "longitude": 6.40722222
+  },
+  {
+    "alias": "kebbe",
+    "name": "Kebbe",
+    "state_code": "SO",
+    "latitude": 12.13333333,
+    "longitude": 4.73333333
+  },
+  {
+    "alias": "kware",
+    "name": "Kware",
+    "state_code": "SO",
+    "latitude": 13.21805556,
+    "longitude": 5.26722222
+  },
+  {
+    "alias": "rabah",
+    "name": "Rabah",
+    "state_code": "SO",
+    "latitude": 13.11666667,
+    "longitude": 5.51666667
+  },
+  {
+    "alias": "sabon-birni",
+    "name": "Sabon Birni",
+    "state_code": "SO",
+    "latitude": 13.5611,
+    "longitude": 6.325
+  },
+  {
+    "alias": "shagari",
+    "name": "Shagari",
+    "state_code": "SO",
+    "latitude": 12.63333333,
+    "longitude": 5
+  },
+  {
+    "alias": "silame",
+    "name": "Silame",
+    "state_code": "SO",
+    "latitude": 13.03333333,
+    "longitude": 4.85
+  },
+  {
+    "alias": "sokoto-north",
+    "name": "Sokoto North",
+    "state_code": "SO",
+    "latitude": 13.05,
+    "longitude": 5.23333333
+  },
+  {
+    "alias": "sokoto-south",
+    "name": "Sokoto South",
+    "state_code": "SO",
+    "latitude": 13.05,
+    "longitude": 5.21666667
+  },
+  {
+    "alias": "tambuwal",
+    "name": "Tambuwal",
+    "state_code": "SO",
+    "latitude": 12.31666667,
+    "longitude": 4.8
+  },
+  {
+    "alias": "tangaza",
+    "name": "Tangaza",
+    "state_code": "SO",
+    "latitude": 13.5167,
+    "longitude": 4.96667
+  },
+  {
+    "alias": "tureta",
+    "name": "Tureta",
+    "state_code": "SO",
+    "latitude": 12.58944444,
+    "longitude": 5.54694444
+  },
+  {
+    "alias": "wamako",
+    "name": "Wamako",
+    "state_code": "SO",
+    "latitude": 13.03777778,
+    "longitude": 5.09361111
+  },
+  {
+    "alias": "wurno",
+    "name": "Wurno",
+    "state_code": "SO",
+    "latitude": 13.28416667,
+    "longitude": 5.4275
+  },
+  {
+    "alias": "yabo",
+    "name": "Yabo",
+    "state_code": "SO",
+    "latitude": 12.71916667,
+    "longitude": 5.00616667
+  },
+  {
+    "alias": "ardo-kola",
+    "name": "Ardo Kola",
+    "state_code": "TA",
+    "latitude": 8.8467,
+    "longitude": 11.2067
+  },
+  {
+    "alias": "bali",
+    "name": "Bali",
+    "state_code": "TA",
+    "latitude": 7.854286164866859,
+    "longitude": 10.963562199223984
+  },
+  {
+    "alias": "donga",
+    "name": "Donga",
+    "state_code": "TA",
+    "latitude": 7.55,
+    "longitude": 10.28333333
+  },
+  {
+    "alias": "gashaka",
+    "name": "Gashaka",
+    "state_code": "TA",
+    "latitude": 7.506556,
+    "longitude": 11.364155
+  },
+  {
+    "alias": "gassol",
+    "name": "Gassol",
+    "state_code": "TA",
+    "latitude": 8.4,
+    "longitude": 10.5333
+  },
+  {
+    "alias": "ibi",
+    "name": "Ibi",
+    "state_code": "TA",
+    "latitude": 8.31666667,
+    "longitude": 9.85
+  },
+  {
+    "alias": "jalingo",
+    "name": "Jalingo",
+    "state_code": "TA",
+    "latitude": 8.9,
+    "longitude": 11.36666667
+  },
+  {
+    "alias": "karim-lamido",
+    "name": "Karim Lamido",
+    "state_code": "TA",
+    "latitude": 9.2,
+    "longitude": 10.8833
+  },
+  {
+    "alias": "kurmi",
+    "name": "Kurmi",
+    "state_code": "TA",
+    "latitude": 8.708857,
+    "longitude": 10.080541
+  },
+  {
+    "alias": "lau",
+    "name": "Lau",
+    "state_code": "TA",
+    "latitude": 9.18694444,
+    "longitude": 11.42
+  },
+  {
+    "alias": "sardauna",
+    "name": "Sardauna",
+    "state_code": "TA",
+    "latitude": 6.95,
+    "longitude": 11.116667
+  },
+  {
+    "alias": "takum",
+    "name": "Takum",
+    "state_code": "TA",
+    "latitude": 7.25,
+    "longitude": 9.98333333
+  },
+  {
+    "alias": "ussa",
+    "name": "Ussa",
+    "state_code": "TA",
+    "latitude": 7.11666667,
+    "longitude": 10.08333333
+  },
+  {
+    "alias": "wukari",
+    "name": "Wukari",
+    "state_code": "TA",
+    "latitude": 7.85,
+    "longitude": 9.78333333
+  },
+  {
+    "alias": "yorro",
+    "name": "Yorro",
+    "state_code": "TA",
+    "latitude": 8.749986,
+    "longitude": 11.616698
+  },
+  {
+    "alias": "zing",
+    "name": "Zing",
+    "state_code": "TA",
+    "latitude": 8.993239,
+    "longitude": 11.740887
+  },
+  {
+    "alias": "bade",
+    "name": "Bade",
+    "state_code": "YO",
+    "latitude": 12.86666667,
+    "longitude": 10.96666667
+  },
+  {
+    "alias": "bursari",
+    "name": "Bursari",
+    "state_code": "YO",
+    "latitude": 12.75,
+    "longitude": 11.76666667
+  },
+  {
+    "alias": "damaturu",
+    "name": "Damaturu",
+    "state_code": "YO",
+    "latitude": 11.74444444,
+    "longitude": 11.96111111
+  },
+  {
+    "alias": "fika",
+    "name": "Fika",
+    "state_code": "YO",
+    "latitude": 11.41666667,
+    "longitude": 11.21666667
+  },
+  {
+    "alias": "fune",
+    "name": "Fune",
+    "state_code": "YO",
+    "latitude": 11.88333333,
+    "longitude": 11.9
+  },
+  {
+    "alias": "geidam",
+    "name": "Geidam",
+    "state_code": "YO",
+    "latitude": 12.71666667,
+    "longitude": 12.03333333
+  },
+  {
+    "alias": "gujba",
+    "name": "Gujba",
+    "state_code": "YO",
+    "latitude": 11.49777778,
+    "longitude": 11.93083333
+  },
+  {
+    "alias": "gulani",
+    "name": "Gulani",
+    "state_code": "YO",
+    "latitude": 11,
+    "longitude": 11.71666667
+  },
+  {
+    "alias": "jakusko",
+    "name": "Jakusko",
+    "state_code": "YO",
+    "latitude": 12.41666667,
+    "longitude": 10.93333333
+  },
+  {
+    "alias": "karasuwa",
+    "name": "Karasuwa",
+    "state_code": "YO",
+    "latitude": 13,
+    "longitude": 10.78333333
+  },
+  {
+    "alias": "machina",
+    "name": "Machina",
+    "state_code": "YO",
+    "latitude": 13.1,
+    "longitude": 10
+  },
+  {
+    "alias": "nangere",
+    "name": "Nangere",
+    "state_code": "YO",
+    "latitude": 11.85,
+    "longitude": 10.96666667
+  },
+  {
+    "alias": "nguru",
+    "name": "Nguru",
+    "state_code": "YO",
+    "latitude": 12.875,
+    "longitude": 10.458333
+  },
+  {
+    "alias": "potiskum",
+    "name": "Potiskum",
+    "state_code": "YO",
+    "latitude": 11.7092,
+    "longitude": 11.0694
+  },
+  {
+    "alias": "tarmuwa",
+    "name": "Tarmuwa",
+    "state_code": "YO",
+    "latitude": 12.2,
+    "longitude": 11.78333333
+  },
+  {
+    "alias": "yunusari",
+    "name": "Yunusari",
+    "state_code": "YO",
+    "latitude": 13.11666667,
+    "longitude": 11.73333333
+  },
+  {
+    "alias": "yusufari",
+    "name": "Yusufari",
+    "state_code": "YO",
+    "latitude": 13.18333333,
+    "longitude": 10.85
+  },
+  {
+    "alias": "anka",
+    "name": "Anka",
+    "state_code": "ZA",
+    "latitude": 11.98333333,
+    "longitude": 6.03333333
+  },
+  {
+    "alias": "bakura",
+    "name": "Bakura",
+    "state_code": "ZA",
+    "latitude": 12.15,
+    "longitude": 5.9
+  },
+  {
+    "alias": "birnin-magaji/kiyaw",
+    "name": "Birnin Magaji/Kiyaw",
+    "state_code": "ZA",
+    "latitude": 12.46666667,
+    "longitude": 6.9
+  },
+  {
+    "alias": "bukkuyum",
+    "name": "Bukkuyum",
+    "state_code": "ZA",
+    "latitude": 12,
+    "longitude": 5.61666667
+  },
+  {
+    "alias": "bungudu",
+    "name": "Bungudu",
+    "state_code": "ZA",
+    "latitude": 12.15,
+    "longitude": 6.5
+  },
+  {
+    "alias": "gummi",
+    "name": "Gummi",
+    "state_code": "ZA",
+    "latitude": 12.05,
+    "longitude": 5.16666667
+  },
+  {
+    "alias": "gusau",
+    "name": "Gusau",
+    "state_code": "ZA",
+    "latitude": 12.166667,
+    "longitude": 6.666667
+  },
+  {
+    "alias": "kaura-namoda",
+    "name": "Kaura Namoda",
+    "state_code": "ZA",
+    "latitude": 12.6,
+    "longitude": 6.589722
+  },
+  {
+    "alias": "maradun",
+    "name": "Maradun",
+    "state_code": "ZA",
+    "latitude": 12.75,
+    "longitude": 6.28333333
+  },
+  {
+    "alias": "maru",
+    "name": "Maru",
+    "state_code": "ZA",
+    "latitude": 11.6,
+    "longitude": 6.28333333
+  },
+  {
+    "alias": "shinkafi",
+    "name": "Shinkafi",
+    "state_code": "ZA",
+    "latitude": 13.03333333,
+    "longitude": 6.51666667
+  },
+  {
+    "alias": "talata-mafara",
+    "name": "Talata Mafara",
+    "state_code": "ZA",
+    "latitude": 12.35,
+    "longitude": 6.06666667
+  },
+  {
+    "alias": "tsafe",
+    "name": "Tsafe",
+    "state_code": "ZA",
+    "latitude": 11.93333333,
+    "longitude": 6.9
+  },
+  {
+    "alias": "zurmi",
+    "name": "Zurmi",
+    "state_code": "ZA",
+    "latitude": 12.85,
+    "longitude": 6.73333333
+  }
+]

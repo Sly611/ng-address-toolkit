@@ -1,0 +1,298 @@
+[
+  {
+    "code": "AB",
+    "name": "Abia",
+    "capital": "Umuahia",
+    "region": "South East",
+    "latitude": 5.532,
+    "longitude": 7.486
+  },
+  {
+    "code": "AD",
+    "name": "Adamawa",
+    "capital": "Yola",
+    "region": "North East",
+    "latitude": 9.2085,
+    "longitude": 12.4818
+  },
+  {
+    "code": "AK",
+    "name": "Akwa Ibom",
+    "capital": "Uyo",
+    "region": "South South",
+    "latitude": 5.0377,
+    "longitude": 7.9128
+  },
+  {
+    "code": "AN",
+    "name": "Anambra",
+    "capital": "Awka",
+    "region": "South East",
+    "latitude": 6.212,
+    "longitude": 7.069
+  },
+  {
+    "code": "BA",
+    "name": "Bauchi",
+    "capital": "Bauchi",
+    "region": "North East",
+    "latitude": 10.3103,
+    "longitude": 9.8437
+  },
+  {
+    "code": "BY",
+    "name": "Bayelsa",
+    "capital": "Yenagoa",
+    "region": "South South",
+    "latitude": 4.9247,
+    "longitude": 6.2642
+  },
+  {
+    "code": "BE",
+    "name": "Benue",
+    "capital": "Makurdi",
+    "region": "North Central",
+    "latitude": 7.7322,
+    "longitude": 8.5391
+  },
+  {
+    "code": "BO",
+    "name": "Borno",
+    "capital": "Maiduguri",
+    "region": "North East",
+    "latitude": 11.8333,
+    "longitude": 13.15
+  },
+  {
+    "code": "CR",
+    "name": "Cross River",
+    "capital": "Calabar",
+    "region": "South South",
+    "latitude": 4.9757,
+    "longitude": 8.3417
+  },
+  {
+    "code": "DE",
+    "name": "Delta",
+    "capital": "Asaba",
+    "region": "South South",
+    "latitude": 6.1987,
+    "longitude": 6.7346
+  },
+  {
+    "code": "EB",
+    "name": "Ebonyi",
+    "capital": "Abakaliki",
+    "region": "South East",
+    "latitude": 6.3248,
+    "longitude": 8.1137
+  },
+  {
+    "code": "ED",
+    "name": "Edo",
+    "capital": "Benin City",
+    "region": "South South",
+    "latitude": 6.335,
+    "longitude": 5.6037
+  },
+  {
+    "code": "EK",
+    "name": "Ekiti",
+    "capital": "Ado-Ekiti",
+    "region": "South West",
+    "latitude": 7.6211,
+    "longitude": 5.2211
+  },
+  {
+    "code": "EN",
+    "name": "Enugu",
+    "capital": "Enugu",
+    "region": "South East",
+    "latitude": 6.5244,
+    "longitude": 7.5086
+  },
+  {
+    "code": "FC",
+    "name": "Federal Capital Territory",
+    "capital": "Abuja",
+    "region": "North Central",
+    "latitude": 9.0765,
+    "longitude": 7.3986
+  },
+  {
+    "code": "GO",
+    "name": "Gombe",
+    "capital": "Gombe",
+    "region": "North East",
+    "latitude": 10.2897,
+    "longitude": 11.1673
+  },
+  {
+    "code": "IM",
+    "name": "Imo",
+    "capital": "Owerri",
+    "region": "South East",
+    "latitude": 5.484,
+    "longitude": 7.0351
+  },
+  {
+    "code": "JI",
+    "name": "Jigawa",
+    "capital": "Dutse",
+    "region": "North West",
+    "latitude": 11.757,
+    "longitude": 9.3384
+  },
+  {
+    "code": "KD",
+    "name": "Kaduna",
+    "capital": "Kaduna",
+    "region": "North West",
+    "latitude": 10.5222,
+    "longitude": 7.4383
+  },
+  {
+    "code": "KN",
+    "name": "Kano",
+    "capital": "Kano",
+    "region": "North West",
+    "latitude": 12.0022,
+    "longitude": 8.592
+  },
+  {
+    "code": "KT",
+    "name": "Katsina",
+    "capital": "Katsina",
+    "region": "North West",
+    "latitude": 12.9908,
+    "longitude": 7.6018
+  },
+  {
+    "code": "KE",
+    "name": "Kebbi",
+    "capital": "Birnin Kebbi",
+    "region": "North West",
+    "latitude": 12.4534,
+    "longitude": 4.1975
+  },
+  {
+    "code": "KO",
+    "name": "Kogi",
+    "capital": "Lokoja",
+    "region": "North Central",
+    "latitude": 7.8023,
+    "longitude": 6.7333
+  },
+  {
+    "code": "KW",
+    "name": "Kwara",
+    "capital": "Ilorin",
+    "region": "North Central",
+    "latitude": 8.4966,
+    "longitude": 4.5426
+  },
+  {
+    "code": "LA",
+    "name": "Lagos",
+    "capital": "Ikeja",
+    "region": "South West",
+    "latitude": 6.5244,
+    "longitude": 3.3792
+  },
+  {
+    "code": "NA",
+    "name": "Nasarawa",
+    "capital": "Lafia",
+    "region": "North Central",
+    "latitude": 8.4939,
+    "longitude": 8.5168
+  },
+  {
+    "code": "NI",
+    "name": "Niger",
+    "capital": "Minna",
+    "region": "North Central",
+    "latitude": 9.6139,
+    "longitude": 6.5569
+  },
+  {
+    "code": "OG",
+    "name": "Ogun",
+    "capital": "Abeokuta",
+    "region": "South West",
+    "latitude": 7.1557,
+    "longitude": 3.3451
+  },
+  {
+    "code": "ON",
+    "name": "Ondo",
+    "capital": "Akure",
+    "region": "South West",
+    "latitude": 7.2508,
+    "longitude": 5.1931
+  },
+  {
+    "code": "OS",
+    "name": "Osun",
+    "capital": "Osogbo",
+    "region": "South West",
+    "latitude": 7.7719,
+    "longitude": 4.556
+  },
+  {
+    "code": "OY",
+    "name": "Oyo",
+    "capital": "Ibadan",
+    "region": "South West",
+    "latitude": 7.3775,
+    "longitude": 3.947
+  },
+  {
+    "code": "PL",
+    "name": "Plateau",
+    "capital": "Jos",
+    "region": "North Central",
+    "latitude": 9.8965,
+    "longitude": 8.8583
+  },
+  {
+    "code": "RI",
+    "name": "Rivers",
+    "capital": "Port Harcourt",
+    "region": "South South",
+    "latitude": 4.8156,
+    "longitude": 7.0498
+  },
+  {
+    "code": "SO",
+    "name": "Sokoto",
+    "capital": "Sokoto",
+    "region": "North West",
+    "latitude": 13.0059,
+    "longitude": 5.2476
+  },
+  {
+    "code": "TA",
+    "name": "Taraba",
+    "capital": "Jalingo",
+    "region": "North East",
+    "latitude": 8.8931,
+    "longitude": 11.362
+  },
+  {
+    "code": "YO",
+    "name": "Yobe",
+    "capital": "Damaturu",
+    "region": "North East",
+    "latitude": 11.7469,
+    "longitude": 11.9609
+  },
+  {
+    "code": "ZA",
+    "name": "Zamfara",
+    "capital": "Gusau",
+    "region": "North West",
+    "latitude": 12.1704,
+    "longitude": 6.6641
+  }
+]
