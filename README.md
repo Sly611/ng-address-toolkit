@@ -227,10 +227,14 @@ search("lagos", level="country")
 
 ## What you can build with it
 
+You can use the hosted API directly without setting up or running the project yourself.
+
+Visit the [home page](https://ng-address-api.vercel.app/) to explore the API and start making requests.
+
 - Address forms with cascading dropdowns for state, LGA, and ward
 - Address validation and normalization for checkout or signup flows
-- Delivery zone and logistics tools that need to map a town or ward to its LGA and state
-- Location based search and autocomplete for Nigerian addresses
+- Delivery zone and logistics tools that map a town or ward to its LGA and state
+- Location-based search and autocomplete for Nigerian addresses
 - Reports and analytics that group users or orders by state, LGA, or region
 
 ## License
